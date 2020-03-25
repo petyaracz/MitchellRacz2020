@@ -1,0 +1,871 @@
+word	ID	Q#	location	gender	age	clan	education	value	correct	task	participant.av	participant.rank	target_word.av	target_word.rank	c.age	participant
+aseeta	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	N	FALSE	production	0.2	13	0	1	-1	participant 1
+aseeta	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	production	0.133333333333333	5	0	1	-1	participant 2
+aseeta	11	11	Getanyamba	male	11	Haymahoo	class 5	N	FALSE	production	0.3	24	0	1	2	participant 3
+aseeta	4	3	Eshkesh	male	8	Aseecheeka	none	N	FALSE	production	0.166666666666667	8	0	1	-1	participant 4
+aseeta	13	14	Garawja	male	8	Malleyeck	pre-school	N	FALSE	production	0.2	12	0	1	-1	participant 5
+aseeta	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	N	FALSE	production	0.2	14	0	1	0	participant 6
+aseeta	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	production	0.133333333333333	6	0	1	1	participant 7
+aseeta	16	16	Getanyamba	female	10	Bareaboojiga	class 1	N	FALSE	production	0.3	23	0	1	1	participant 8
+aseeta	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	production	0.133333333333333	7	0	1	1	participant 9
+aseeta	18	18	Getanyamba	female	9	Hilbagamas	class 1	N	FALSE	production	0.433333333333333	27	0	1	0	participant 10
+aseeta	3	2	Eshkesh	female	8	Aseecheeka	none	N	FALSE	production	0.333333333333333	26	0	1	-1	participant 11
+aseeta	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	production	0.0666666666666667	1	0	1	1	participant 12
+aseeta	21	21	Eshkesh	male	10	Aseecheeka	none	N	FALSE	production	0.333333333333333	25	0	1	1	participant 13
+aseeta	19	19	Getanyamba	male	10	Hilbagamas	class 2	N	FALSE	production	0.166666666666667	11	0	1	1	participant 14
+aseeta	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	production	0.1	3	0	1	-1	participant 15
+aseeta	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	N	FALSE	production	0.166666666666667	10	0	1	1	participant 16
+aseeta	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	production	0.1	4	0	1	-2	participant 17
+aseeta	14	13	Garawja	male	10	Malleyeck	class 2	N	FALSE	production	0.233333333333333	15	0	1	1	participant 18
+aseeta	17	17	Maguugu	female	8	Malleyeck	none	N	FALSE	production	0.266666666666667	19	0	1	-1	participant 19
+aseeta	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	production	0.1	2	0	1	-1	participant 20
+aseeta	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	N	FALSE	production	0.266666666666667	22	0	1	0	participant 21
+aseeta	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	N	FALSE	production	0.266666666666667	18	0	1	-1	participant 22
+aseeta	2	1	Eshkesh	female	10	Bardeanajeega	none	N	FALSE	production	0.5	30	0	1	1	participant 23
+aseeta	9	5	Getanyamba	female	10	Qawooga	none	N	FALSE	production	0.266666666666667	16	0	1	1	participant 24
+aseeta	30	30	Nyeamuusta	male	10	Dariidajeega	none	N	FALSE	production	0.166666666666667	9	0	1	1	participant 25
+aseeta	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	N	FALSE	production	0.5	29	0	1	-1	participant 26
+aseeta	1	1	Eshkesh	female	9	Aseecheeka	none	N	FALSE	production	0.266666666666667	21	0	1	0	participant 27
+aseeta	20	20	Getanyamba	female	8	Hilbagamas	class 1	N	FALSE	production	0.266666666666667	20	0	1	-1	participant 28
+aseeta	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	N	FALSE	production	0.266666666666667	17	0	1	-1	participant 29
+beasta	9	5	Getanyamba	female	10	Qawooga	none	Y	TRUE	production	0.266666666666667	16	0.433333333333333	24	1	participant 24
+beasta	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	N	FALSE	production	0.2	14	0.433333333333333	24	0	participant 6
+beasta	13	14	Garawja	male	8	Malleyeck	pre-school	N	FALSE	production	0.2	12	0.433333333333333	24	-1	participant 5
+beasta	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	production	0.1	4	0.433333333333333	24	-2	participant 17
+beasta	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	N	FALSE	production	0.266666666666667	22	0.433333333333333	24	0	participant 21
+beasta	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	N	FALSE	production	0.266666666666667	18	0.433333333333333	24	-1	participant 22
+beasta	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	production	0.0666666666666667	1	0.433333333333333	24	1	participant 12
+beasta	11	11	Getanyamba	male	11	Haymahoo	class 5	Y	TRUE	production	0.3	24	0.433333333333333	24	2	participant 3
+beasta	20	20	Getanyamba	female	8	Hilbagamas	class 1	N	FALSE	production	0.266666666666667	20	0.433333333333333	24	-1	participant 28
+beasta	19	19	Getanyamba	male	10	Hilbagamas	class 2	N	FALSE	production	0.166666666666667	11	0.433333333333333	24	1	participant 14
+beasta	2	1	Eshkesh	female	10	Bardeanajeega	none	Y	TRUE	production	0.5	30	0.433333333333333	24	1	participant 23
+beasta	3	2	Eshkesh	female	8	Aseecheeka	none	Y	TRUE	production	0.333333333333333	26	0.433333333333333	24	-1	participant 11
+beasta	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	Y	TRUE	production	0.1	3	0.433333333333333	24	-1	participant 15
+beasta	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	Y	TRUE	production	0.133333333333333	7	0.433333333333333	24	1	participant 9
+beasta	8	8	Getanyamba	female	8	Qawooga	pre-school	Y	TRUE	production	0.1	2	0.433333333333333	24	-1	participant 20
+beasta	16	16	Getanyamba	female	10	Bareaboojiga	class 1	N	FALSE	production	0.3	23	0.433333333333333	24	1	participant 8
+beasta	4	3	Eshkesh	male	8	Aseecheeka	none	N	FALSE	production	0.166666666666667	8	0.433333333333333	24	-1	participant 4
+beasta	21	21	Eshkesh	male	10	Aseecheeka	none	Y	TRUE	production	0.333333333333333	25	0.433333333333333	24	1	participant 13
+beasta	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	Y	TRUE	production	0.166666666666667	10	0.433333333333333	24	1	participant 16
+beasta	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	production	0.133333333333333	6	0.433333333333333	24	1	participant 7
+beasta	30	30	Nyeamuusta	male	10	Dariidajeega	none	N	FALSE	production	0.166666666666667	9	0.433333333333333	24	1	participant 25
+beasta	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	N	FALSE	production	0.266666666666667	17	0.433333333333333	24	-1	participant 29
+beasta	17	17	Maguugu	female	8	Malleyeck	none	N	FALSE	production	0.266666666666667	19	0.433333333333333	24	-1	participant 19
+beasta	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	N	FALSE	production	0.2	13	0.433333333333333	24	-1	participant 1
+beasta	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	Y	TRUE	production	0.5	29	0.433333333333333	24	-1	participant 26
+beasta	1	1	Eshkesh	female	9	Aseecheeka	none	Y	TRUE	production	0.266666666666667	21	0.433333333333333	24	0	participant 27
+beasta	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	production	0.133333333333333	5	0.433333333333333	24	-1	participant 2
+beasta	18	18	Getanyamba	female	9	Hilbagamas	class 1	Y	TRUE	production	0.433333333333333	27	0.433333333333333	24	0	participant 10
+beasta	14	13	Garawja	male	10	Malleyeck	class 2	N	FALSE	production	0.233333333333333	15	0.433333333333333	24	1	participant 18
+daliiloonga	13	14	Garawja	male	8	Malleyeck	pre-school	N	FALSE	comprehension	0.2	12	0.2	17	-1	participant 5
+daliiloonga	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	N	FALSE	comprehension	0.266666666666667	17	0.2	17	-1	participant 29
+daliiloonga	17	17	Maguugu	female	8	Malleyeck	none	N	FALSE	comprehension	0.266666666666667	19	0.2	17	-1	participant 19
+daliiloonga	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	comprehension	0.133333333333333	7	0.2	17	1	participant 9
+daliiloonga	30	30	Nyeamuusta	male	10	Dariidajeega	none	N	FALSE	comprehension	0.166666666666667	9	0.2	17	1	participant 25
+daliiloonga	11	11	Getanyamba	male	11	Haymahoo	class 5	N	FALSE	comprehension	0.3	24	0.2	17	2	participant 3
+daliiloonga	14	13	Garawja	male	10	Malleyeck	class 2	N	FALSE	comprehension	0.233333333333333	15	0.2	17	1	participant 18
+daliiloonga	21	21	Eshkesh	male	10	Aseecheeka	none	Y	TRUE	comprehension	0.333333333333333	25	0.2	17	1	participant 13
+daliiloonga	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	N	FALSE	comprehension	0.2	13	0.2	17	-1	participant 1
+daliiloonga	16	16	Getanyamba	female	10	Bareaboojiga	class 1	Y	TRUE	comprehension	0.3	23	0.2	17	1	participant 8
+daliiloonga	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	Y	TRUE	comprehension	0.5	29	0.2	17	-1	participant 26
+daliiloonga	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	comprehension	0.1	2	0.2	17	-1	participant 20
+daliiloonga	4	3	Eshkesh	male	8	Aseecheeka	none	N	FALSE	comprehension	0.166666666666667	8	0.2	17	-1	participant 4
+daliiloonga	20	20	Getanyamba	female	8	Hilbagamas	class 1	Y	TRUE	comprehension	0.266666666666667	20	0.2	17	-1	participant 28
+daliiloonga	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	comprehension	0.133333333333333	5	0.2	17	-1	participant 2
+daliiloonga	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	comprehension	0.1	3	0.2	17	-1	participant 15
+daliiloonga	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	Y	TRUE	comprehension	0.2	14	0.2	17	0	participant 6
+daliiloonga	9	5	Getanyamba	female	10	Qawooga	none	N	FALSE	comprehension	0.266666666666667	16	0.2	17	1	participant 24
+daliiloonga	18	18	Getanyamba	female	9	Hilbagamas	class 1	N	FALSE	comprehension	0.433333333333333	27	0.2	17	0	participant 10
+daliiloonga	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	N	FALSE	comprehension	0.266666666666667	22	0.2	17	0	participant 21
+daliiloonga	1	1	Eshkesh	female	9	Aseecheeka	none	N	FALSE	comprehension	0.266666666666667	21	0.2	17	0	participant 27
+daliiloonga	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	comprehension	0.1	4	0.2	17	-2	participant 17
+daliiloonga	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	N	FALSE	comprehension	0.266666666666667	18	0.2	17	-1	participant 22
+daliiloonga	19	19	Getanyamba	male	10	Hilbagamas	class 2	N	FALSE	comprehension	0.166666666666667	11	0.2	17	1	participant 14
+daliiloonga	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	comprehension	0.0666666666666667	1	0.2	17	1	participant 12
+daliiloonga	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	N	FALSE	comprehension	0.166666666666667	10	0.2	17	1	participant 16
+daliiloonga	2	1	Eshkesh	female	10	Bardeanajeega	none	Y	TRUE	comprehension	0.5	30	0.2	17	1	participant 23
+daliiloonga	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	comprehension	0.133333333333333	6	0.2	17	1	participant 7
+daliiloonga	3	2	Eshkesh	female	8	Aseecheeka	none	N	FALSE	comprehension	0.333333333333333	26	0.2	17	-1	participant 11
+digeeda	10	9	Getanyamba	female	10	Hilbagamas	class 2	Y	TRUE	production	0.133333333333333	6	0.566666666666667	27	1	participant 7
+digeeda	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	production	0.1	3	0.566666666666667	27	-1	participant 15
+digeeda	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	Y	TRUE	production	0.5	29	0.566666666666667	27	-1	participant 26
+digeeda	17	17	Maguugu	female	8	Malleyeck	none	N	FALSE	production	0.266666666666667	19	0.566666666666667	27	-1	participant 19
+digeeda	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	Y	TRUE	production	0.266666666666667	22	0.566666666666667	27	0	participant 21
+digeeda	9	5	Getanyamba	female	10	Qawooga	none	N	FALSE	production	0.266666666666667	16	0.566666666666667	27	1	participant 24
+digeeda	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	production	0.1	4	0.566666666666667	27	-2	participant 17
+digeeda	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	Y	TRUE	production	0.2	14	0.566666666666667	27	0	participant 6
+digeeda	16	16	Getanyamba	female	10	Bareaboojiga	class 1	Y	TRUE	production	0.3	23	0.566666666666667	27	1	participant 8
+digeeda	14	13	Garawja	male	10	Malleyeck	class 2	Y	TRUE	production	0.233333333333333	15	0.566666666666667	27	1	participant 18
+digeeda	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	production	0.133333333333333	7	0.566666666666667	27	1	participant 9
+digeeda	13	14	Garawja	male	8	Malleyeck	pre-school	N	FALSE	production	0.2	12	0.566666666666667	27	-1	participant 5
+digeeda	19	19	Getanyamba	male	10	Hilbagamas	class 2	N	FALSE	production	0.166666666666667	11	0.566666666666667	27	1	participant 14
+digeeda	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	Y	TRUE	production	0.2	13	0.566666666666667	27	-1	participant 1
+digeeda	20	20	Getanyamba	female	8	Hilbagamas	class 1	N	FALSE	production	0.266666666666667	20	0.566666666666667	27	-1	participant 28
+digeeda	18	18	Getanyamba	female	9	Hilbagamas	class 1	PC	TRUE	production	0.433333333333333	27	0.566666666666667	27	0	participant 10
+digeeda	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	Y	TRUE	production	0.266666666666667	18	0.566666666666667	27	-1	participant 22
+digeeda	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	PC	TRUE	production	0.266666666666667	17	0.566666666666667	27	-1	participant 29
+digeeda	4	3	Eshkesh	male	8	Aseecheeka	none	Y	TRUE	production	0.166666666666667	8	0.566666666666667	27	-1	participant 4
+digeeda	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	N	FALSE	production	0.166666666666667	10	0.566666666666667	27	1	participant 16
+digeeda	2	1	Eshkesh	female	10	Bardeanajeega	none	Y	TRUE	production	0.5	30	0.566666666666667	27	1	participant 23
+digeeda	1	1	Eshkesh	female	9	Aseecheeka	none	PC	TRUE	production	0.266666666666667	21	0.566666666666667	27	0	participant 27
+digeeda	30	30	Nyeamuusta	male	10	Dariidajeega	none	N	FALSE	production	0.166666666666667	9	0.566666666666667	27	1	participant 25
+digeeda	21	21	Eshkesh	male	10	Aseecheeka	none	Y	TRUE	production	0.333333333333333	25	0.566666666666667	27	1	participant 13
+digeeda	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	production	0.1	2	0.566666666666667	27	-1	participant 20
+digeeda	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	production	0.133333333333333	5	0.566666666666667	27	-1	participant 2
+digeeda	11	11	Getanyamba	male	11	Haymahoo	class 5	Y	TRUE	production	0.3	24	0.566666666666667	27	2	participant 3
+digeeda	3	2	Eshkesh	female	8	Aseecheeka	none	Y	TRUE	production	0.333333333333333	26	0.566666666666667	27	-1	participant 11
+digeeda	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	production	0.0666666666666667	1	0.566666666666667	27	1	participant 12
+ea eesh	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	production	0.133333333333333	5	0.0666666666666667	4	-1	participant 2
+ea eesh	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	N	FALSE	production	0.5	29	0.0666666666666667	4	-1	participant 26
+ea eesh	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	production	0.0666666666666667	1	0.0666666666666667	4	1	participant 12
+ea eesh	21	21	Eshkesh	male	10	Aseecheeka	none	N	FALSE	production	0.333333333333333	25	0.0666666666666667	4	1	participant 13
+ea eesh	9	5	Getanyamba	female	10	Qawooga	none	N	FALSE	production	0.266666666666667	16	0.0666666666666667	4	1	participant 24
+ea eesh	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	production	0.133333333333333	7	0.0666666666666667	4	1	participant 9
+ea eesh	4	3	Eshkesh	male	8	Aseecheeka	none	N	FALSE	production	0.166666666666667	8	0.0666666666666667	4	-1	participant 4
+ea eesh	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	N	FALSE	production	0.2	14	0.0666666666666667	4	0	participant 6
+ea eesh	19	19	Getanyamba	male	10	Hilbagamas	class 2	N	FALSE	production	0.166666666666667	11	0.0666666666666667	4	1	participant 14
+ea eesh	2	1	Eshkesh	female	10	Bardeanajeega	none	Y	TRUE	production	0.5	30	0.0666666666666667	4	1	participant 23
+ea eesh	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	N	FALSE	production	0.2	13	0.0666666666666667	4	-1	participant 1
+ea eesh	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	N	FALSE	production	0.266666666666667	17	0.0666666666666667	4	-1	participant 29
+ea eesh	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	production	0.1	2	0.0666666666666667	4	-1	participant 20
+ea eesh	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	N	FALSE	production	0.166666666666667	10	0.0666666666666667	4	1	participant 16
+ea eesh	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	production	0.133333333333333	6	0.0666666666666667	4	1	participant 7
+ea eesh	11	11	Getanyamba	male	11	Haymahoo	class 5	Y	TRUE	production	0.3	24	0.0666666666666667	4	2	participant 3
+ea eesh	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	production	0.1	4	0.0666666666666667	4	-2	participant 17
+ea eesh	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	production	0.1	3	0.0666666666666667	4	-1	participant 15
+ea eesh	20	20	Getanyamba	female	8	Hilbagamas	class 1	N	FALSE	production	0.266666666666667	20	0.0666666666666667	4	-1	participant 28
+ea eesh	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	N	FALSE	production	0.266666666666667	22	0.0666666666666667	4	0	participant 21
+ea eesh	1	1	Eshkesh	female	9	Aseecheeka	none	N	FALSE	production	0.266666666666667	21	0.0666666666666667	4	0	participant 27
+ea eesh	3	2	Eshkesh	female	8	Aseecheeka	none	N	FALSE	production	0.333333333333333	26	0.0666666666666667	4	-1	participant 11
+ea eesh	16	16	Getanyamba	female	10	Bareaboojiga	class 1	N	FALSE	production	0.3	23	0.0666666666666667	4	1	participant 8
+ea eesh	30	30	Nyeamuusta	male	10	Dariidajeega	none	N	FALSE	production	0.166666666666667	9	0.0666666666666667	4	1	participant 25
+ea eesh	17	17	Maguugu	female	8	Malleyeck	none	N	FALSE	production	0.266666666666667	19	0.0666666666666667	4	-1	participant 19
+ea eesh	14	13	Garawja	male	10	Malleyeck	class 2	N	FALSE	production	0.233333333333333	15	0.0666666666666667	4	1	participant 18
+ea eesh	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	N	FALSE	production	0.266666666666667	18	0.0666666666666667	4	-1	participant 22
+ea eesh	13	14	Garawja	male	8	Malleyeck	pre-school	N	FALSE	production	0.2	12	0.0666666666666667	4	-1	participant 5
+ea eesh	18	18	Getanyamba	female	9	Hilbagamas	class 1	N	FALSE	production	0.433333333333333	27	0.0666666666666667	4	0	participant 10
+eanooga	3	2	Eshkesh	female	8	Aseecheeka	none	Y	TRUE	production	0.333333333333333	26	0.6	28	-1	participant 11
+eanooga	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	Y	TRUE	production	0.266666666666667	22	0.6	28	0	participant 21
+eanooga	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	production	0.0666666666666667	1	0.6	28	1	participant 12
+eanooga	11	11	Getanyamba	male	11	Haymahoo	class 5	Y	TRUE	production	0.3	24	0.6	28	2	participant 3
+eanooga	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	Y	TRUE	production	0.266666666666667	17	0.6	28	-1	participant 29
+eanooga	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	production	0.133333333333333	5	0.6	28	-1	participant 2
+eanooga	14	13	Garawja	male	10	Malleyeck	class 2	N	FALSE	production	0.233333333333333	15	0.6	28	1	participant 18
+eanooga	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	production	0.133333333333333	6	0.6	28	1	participant 7
+eanooga	9	5	Getanyamba	female	10	Qawooga	none	Y	TRUE	production	0.266666666666667	16	0.6	28	1	participant 24
+eanooga	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	production	0.1	4	0.6	28	-2	participant 17
+eanooga	13	14	Garawja	male	8	Malleyeck	pre-school	N	FALSE	production	0.2	12	0.6	28	-1	participant 5
+eanooga	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	Y	TRUE	production	0.5	29	0.6	28	-1	participant 26
+eanooga	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	Y	TRUE	production	0.2	13	0.6	28	-1	participant 1
+eanooga	1	1	Eshkesh	female	9	Aseecheeka	none	Y	TRUE	production	0.266666666666667	21	0.6	28	0	participant 27
+eanooga	18	18	Getanyamba	female	9	Hilbagamas	class 1	N	FALSE	production	0.433333333333333	27	0.6	28	0	participant 10
+eanooga	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	Y	TRUE	production	0.2	14	0.6	28	0	participant 6
+eanooga	19	19	Getanyamba	male	10	Hilbagamas	class 2	N	FALSE	production	0.166666666666667	11	0.6	28	1	participant 14
+eanooga	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	Y	TRUE	production	0.266666666666667	18	0.6	28	-1	participant 22
+eanooga	21	21	Eshkesh	male	10	Aseecheeka	none	N	FALSE	production	0.333333333333333	25	0.6	28	1	participant 13
+eanooga	20	20	Getanyamba	female	8	Hilbagamas	class 1	N	FALSE	production	0.266666666666667	20	0.6	28	-1	participant 28
+eanooga	4	3	Eshkesh	male	8	Aseecheeka	none	Y	TRUE	production	0.166666666666667	8	0.6	28	-1	participant 4
+eanooga	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	N	FALSE	production	0.166666666666667	10	0.6	28	1	participant 16
+eanooga	30	30	Nyeamuusta	male	10	Dariidajeega	none	Y	TRUE	production	0.166666666666667	9	0.6	28	1	participant 25
+eanooga	16	16	Getanyamba	female	10	Bareaboojiga	class 1	Y	TRUE	production	0.3	23	0.6	28	1	participant 8
+eanooga	2	1	Eshkesh	female	10	Bardeanajeega	none	Y	TRUE	production	0.5	30	0.6	28	1	participant 23
+eanooga	17	17	Maguugu	female	8	Malleyeck	none	Y	TRUE	production	0.266666666666667	19	0.6	28	-1	participant 19
+eanooga	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	production	0.1	3	0.6	28	-1	participant 15
+eanooga	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	Y	TRUE	production	0.133333333333333	7	0.6	28	1	participant 9
+eanooga	8	8	Getanyamba	female	8	Qawooga	pre-school	Y	TRUE	production	0.1	2	0.6	28	-1	participant 20
+faj	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	N	FALSE	production	0.2	14	0.1	10	0	participant 6
+faj	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	N	FALSE	production	0.266666666666667	22	0.1	10	0	participant 21
+faj	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	production	0.1	4	0.1	10	-2	participant 17
+faj	30	30	Nyeamuusta	male	10	Dariidajeega	none	N	FALSE	production	0.166666666666667	9	0.1	10	1	participant 25
+faj	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	production	0.133333333333333	5	0.1	10	-1	participant 2
+faj	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	production	0.1	3	0.1	10	-1	participant 15
+faj	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	production	0.133333333333333	7	0.1	10	1	participant 9
+faj	19	19	Getanyamba	male	10	Hilbagamas	class 2	N	FALSE	production	0.166666666666667	11	0.1	10	1	participant 14
+faj	21	21	Eshkesh	male	10	Aseecheeka	none	N	FALSE	production	0.333333333333333	25	0.1	10	1	participant 13
+faj	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	N	FALSE	production	0.5	29	0.1	10	-1	participant 26
+faj	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	N	FALSE	production	0.2	13	0.1	10	-1	participant 1
+faj	16	16	Getanyamba	female	10	Bareaboojiga	class 1	Y	TRUE	production	0.3	23	0.1	10	1	participant 8
+faj	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	production	0.133333333333333	6	0.1	10	1	participant 7
+faj	11	11	Getanyamba	male	11	Haymahoo	class 5	N	FALSE	production	0.3	24	0.1	10	2	participant 3
+faj	3	2	Eshkesh	female	8	Aseecheeka	none	N	FALSE	production	0.333333333333333	26	0.1	10	-1	participant 11
+faj	20	20	Getanyamba	female	8	Hilbagamas	class 1	N	FALSE	production	0.266666666666667	20	0.1	10	-1	participant 28
+faj	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	production	0.0666666666666667	1	0.1	10	1	participant 12
+faj	13	14	Garawja	male	8	Malleyeck	pre-school	N	FALSE	production	0.2	12	0.1	10	-1	participant 5
+faj	18	18	Getanyamba	female	9	Hilbagamas	class 1	Y	TRUE	production	0.433333333333333	27	0.1	10	0	participant 10
+faj	4	3	Eshkesh	male	8	Aseecheeka	none	N	FALSE	production	0.166666666666667	8	0.1	10	-1	participant 4
+faj	9	5	Getanyamba	female	10	Qawooga	none	N	FALSE	production	0.266666666666667	16	0.1	10	1	participant 24
+faj	1	1	Eshkesh	female	9	Aseecheeka	none	N	FALSE	production	0.266666666666667	21	0.1	10	0	participant 27
+faj	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	N	FALSE	production	0.266666666666667	18	0.1	10	-1	participant 22
+faj	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	production	0.1	2	0.1	10	-1	participant 20
+faj	14	13	Garawja	male	10	Malleyeck	class 2	N	FALSE	production	0.233333333333333	15	0.1	10	1	participant 18
+faj	17	17	Maguugu	female	8	Malleyeck	none	Y	TRUE	production	0.266666666666667	19	0.1	10	-1	participant 19
+faj	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	N	FALSE	production	0.166666666666667	10	0.1	10	1	participant 16
+faj	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	N	FALSE	production	0.266666666666667	17	0.1	10	-1	participant 29
+faj	2	1	Eshkesh	female	10	Bardeanajeega	none	N	FALSE	production	0.5	30	0.1	10	1	participant 23
+giikwealaneeda	4	3	Eshkesh	male	8	Aseecheeka	none	N	FALSE	comprehension	0.166666666666667	8	0.7	29	-1	participant 4
+giikwealaneeda	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	comprehension	0.0666666666666667	1	0.7	29	1	participant 12
+giikwealaneeda	13	14	Garawja	male	8	Malleyeck	pre-school	Y	TRUE	comprehension	0.2	12	0.7	29	-1	participant 5
+giikwealaneeda	9	5	Getanyamba	female	10	Qawooga	none	Y	TRUE	comprehension	0.266666666666667	16	0.7	29	1	participant 24
+giikwealaneeda	11	11	Getanyamba	male	11	Haymahoo	class 5	N	FALSE	comprehension	0.3	24	0.7	29	2	participant 3
+giikwealaneeda	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	Y	TRUE	comprehension	0.5	29	0.7	29	-1	participant 26
+giikwealaneeda	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	comprehension	0.133333333333333	5	0.7	29	-1	participant 2
+giikwealaneeda	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	Y	TRUE	comprehension	0.2	13	0.7	29	-1	participant 1
+giikwealaneeda	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	comprehension	0.1	3	0.7	29	-1	participant 15
+giikwealaneeda	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	comprehension	0.1	2	0.7	29	-1	participant 20
+giikwealaneeda	2	1	Eshkesh	female	10	Bardeanajeega	none	Y	TRUE	comprehension	0.5	30	0.7	29	1	participant 23
+giikwealaneeda	19	19	Getanyamba	male	10	Hilbagamas	class 2	Y	TRUE	comprehension	0.166666666666667	11	0.7	29	1	participant 14
+giikwealaneeda	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	comprehension	0.133333333333333	7	0.7	29	1	participant 9
+giikwealaneeda	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	Y	TRUE	comprehension	0.266666666666667	17	0.7	29	-1	participant 29
+giikwealaneeda	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	Y	TRUE	comprehension	0.2	14	0.7	29	0	participant 6
+giikwealaneeda	10	9	Getanyamba	female	10	Hilbagamas	class 2	Y	TRUE	comprehension	0.133333333333333	6	0.7	29	1	participant 7
+giikwealaneeda	16	16	Getanyamba	female	10	Bareaboojiga	class 1	Y	TRUE	comprehension	0.3	23	0.7	29	1	participant 8
+giikwealaneeda	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	Y	TRUE	comprehension	0.266666666666667	18	0.7	29	-1	participant 22
+giikwealaneeda	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	Y	TRUE	comprehension	0.1	4	0.7	29	-2	participant 17
+giikwealaneeda	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	Y	TRUE	comprehension	0.166666666666667	10	0.7	29	1	participant 16
+giikwealaneeda	17	17	Maguugu	female	8	Malleyeck	none	Y	TRUE	comprehension	0.266666666666667	19	0.7	29	-1	participant 19
+giikwealaneeda	30	30	Nyeamuusta	male	10	Dariidajeega	none	N	FALSE	comprehension	0.166666666666667	9	0.7	29	1	participant 25
+giikwealaneeda	1	1	Eshkesh	female	9	Aseecheeka	none	Y	TRUE	comprehension	0.266666666666667	21	0.7	29	0	participant 27
+giikwealaneeda	14	13	Garawja	male	10	Malleyeck	class 2	Y	TRUE	comprehension	0.233333333333333	15	0.7	29	1	participant 18
+giikwealaneeda	20	20	Getanyamba	female	8	Hilbagamas	class 1	Y	TRUE	comprehension	0.266666666666667	20	0.7	29	-1	participant 28
+giikwealaneeda	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	N	FALSE	comprehension	0.266666666666667	22	0.7	29	0	participant 21
+giikwealaneeda	21	21	Eshkesh	male	10	Aseecheeka	none	Y	TRUE	comprehension	0.333333333333333	25	0.7	29	1	participant 13
+giikwealaneeda	18	18	Getanyamba	female	9	Hilbagamas	class 1	Y	TRUE	comprehension	0.433333333333333	27	0.7	29	0	participant 10
+giikwealaneeda	3	2	Eshkesh	female	8	Aseecheeka	none	Y	TRUE	comprehension	0.333333333333333	26	0.7	29	-1	participant 11
+giiyuukyuukaneeda	16	16	Getanyamba	female	10	Bareaboojiga	class 1	Y	TRUE	comprehension	0.3	23	0.1	8	1	participant 8
+giiyuukyuukaneeda	20	20	Getanyamba	female	8	Hilbagamas	class 1	N	FALSE	comprehension	0.266666666666667	20	0.1	8	-1	participant 28
+giiyuukyuukaneeda	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	comprehension	0.133333333333333	6	0.1	8	1	participant 7
+giiyuukyuukaneeda	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	comprehension	0.1	3	0.1	8	-1	participant 15
+giiyuukyuukaneeda	17	17	Maguugu	female	8	Malleyeck	none	Y	TRUE	comprehension	0.266666666666667	19	0.1	8	-1	participant 19
+giiyuukyuukaneeda	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	N	FALSE	comprehension	0.266666666666667	17	0.1	8	-1	participant 29
+giiyuukyuukaneeda	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	comprehension	0.133333333333333	5	0.1	8	-1	participant 2
+giiyuukyuukaneeda	3	2	Eshkesh	female	8	Aseecheeka	none	N	FALSE	comprehension	0.333333333333333	26	0.1	8	-1	participant 11
+giiyuukyuukaneeda	19	19	Getanyamba	male	10	Hilbagamas	class 2	N	FALSE	comprehension	0.166666666666667	11	0.1	8	1	participant 14
+giiyuukyuukaneeda	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	N	FALSE	comprehension	0.266666666666667	18	0.1	8	-1	participant 22
+giiyuukyuukaneeda	14	13	Garawja	male	10	Malleyeck	class 2	N	FALSE	comprehension	0.233333333333333	15	0.1	8	1	participant 18
+giiyuukyuukaneeda	30	30	Nyeamuusta	male	10	Dariidajeega	none	N	FALSE	comprehension	0.166666666666667	9	0.1	8	1	participant 25
+giiyuukyuukaneeda	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	N	FALSE	comprehension	0.5	29	0.1	8	-1	participant 26
+giiyuukyuukaneeda	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	comprehension	0.1	2	0.1	8	-1	participant 20
+giiyuukyuukaneeda	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	N	FALSE	comprehension	0.2	14	0.1	8	0	participant 6
+giiyuukyuukaneeda	11	11	Getanyamba	male	11	Haymahoo	class 5	N	FALSE	comprehension	0.3	24	0.1	8	2	participant 3
+giiyuukyuukaneeda	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	comprehension	0.0666666666666667	1	0.1	8	1	participant 12
+giiyuukyuukaneeda	4	3	Eshkesh	male	8	Aseecheeka	none	N	FALSE	comprehension	0.166666666666667	8	0.1	8	-1	participant 4
+giiyuukyuukaneeda	13	14	Garawja	male	8	Malleyeck	pre-school	N	FALSE	comprehension	0.2	12	0.1	8	-1	participant 5
+giiyuukyuukaneeda	9	5	Getanyamba	female	10	Qawooga	none	N	FALSE	comprehension	0.266666666666667	16	0.1	8	1	participant 24
+giiyuukyuukaneeda	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	N	FALSE	comprehension	0.2	13	0.1	8	-1	participant 1
+giiyuukyuukaneeda	21	21	Eshkesh	male	10	Aseecheeka	none	N	FALSE	comprehension	0.333333333333333	25	0.1	8	1	participant 13
+giiyuukyuukaneeda	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	comprehension	0.1	4	0.1	8	-2	participant 17
+giiyuukyuukaneeda	2	1	Eshkesh	female	10	Bardeanajeega	none	N	FALSE	comprehension	0.5	30	0.1	8	1	participant 23
+giiyuukyuukaneeda	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	N	FALSE	comprehension	0.166666666666667	10	0.1	8	1	participant 16
+giiyuukyuukaneeda	18	18	Getanyamba	female	9	Hilbagamas	class 1	N	FALSE	comprehension	0.433333333333333	27	0.1	8	0	participant 10
+giiyuukyuukaneeda	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	comprehension	0.133333333333333	7	0.1	8	1	participant 9
+giiyuukyuukaneeda	1	1	Eshkesh	female	9	Aseecheeka	none	N	FALSE	comprehension	0.266666666666667	21	0.1	8	0	participant 27
+giiyuukyuukaneeda	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	Y	TRUE	comprehension	0.266666666666667	22	0.1	8	0	participant 21
+gudeeda	16	16	Getanyamba	female	10	Bareaboojiga	class 1	N	FALSE	production	0.3	23	0.266666666666667	21	1	participant 8
+gudeeda	4	3	Eshkesh	male	8	Aseecheeka	none	N	FALSE	production	0.166666666666667	8	0.266666666666667	21	-1	participant 4
+gudeeda	11	11	Getanyamba	male	11	Haymahoo	class 5	Y	TRUE	production	0.3	24	0.266666666666667	21	2	participant 3
+gudeeda	18	18	Getanyamba	female	9	Hilbagamas	class 1	PC	TRUE	production	0.433333333333333	27	0.266666666666667	21	0	participant 10
+gudeeda	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	N	FALSE	production	0.266666666666667	22	0.266666666666667	21	0	participant 21
+gudeeda	17	17	Maguugu	female	8	Malleyeck	none	N	FALSE	production	0.266666666666667	19	0.266666666666667	21	-1	participant 19
+gudeeda	9	5	Getanyamba	female	10	Qawooga	none	Y	TRUE	production	0.266666666666667	16	0.266666666666667	21	1	participant 24
+gudeeda	19	19	Getanyamba	male	10	Hilbagamas	class 2	N	FALSE	production	0.166666666666667	11	0.266666666666667	21	1	participant 14
+gudeeda	2	1	Eshkesh	female	10	Bardeanajeega	none	N	FALSE	production	0.5	30	0.266666666666667	21	1	participant 23
+gudeeda	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	Y	TRUE	production	0.266666666666667	18	0.266666666666667	21	-1	participant 22
+gudeeda	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	production	0.1	3	0.266666666666667	21	-1	participant 15
+gudeeda	20	20	Getanyamba	female	8	Hilbagamas	class 1	PC	TRUE	production	0.266666666666667	20	0.266666666666667	21	-1	participant 28
+gudeeda	30	30	Nyeamuusta	male	10	Dariidajeega	none	N	FALSE	production	0.166666666666667	9	0.266666666666667	21	1	participant 25
+gudeeda	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	N	FALSE	production	0.266666666666667	17	0.266666666666667	21	-1	participant 29
+gudeeda	1	1	Eshkesh	female	9	Aseecheeka	none	N	FALSE	production	0.266666666666667	21	0.266666666666667	21	0	participant 27
+gudeeda	21	21	Eshkesh	male	10	Aseecheeka	none	N	FALSE	production	0.333333333333333	25	0.266666666666667	21	1	participant 13
+gudeeda	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	production	0.1	4	0.266666666666667	21	-2	participant 17
+gudeeda	8	8	Getanyamba	female	8	Qawooga	pre-school	Y	TRUE	production	0.1	2	0.266666666666667	21	-1	participant 20
+gudeeda	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	production	0.133333333333333	5	0.266666666666667	21	-1	participant 2
+gudeeda	3	2	Eshkesh	female	8	Aseecheeka	none	N	FALSE	production	0.333333333333333	26	0.266666666666667	21	-1	participant 11
+gudeeda	13	14	Garawja	male	8	Malleyeck	pre-school	N	FALSE	production	0.2	12	0.266666666666667	21	-1	participant 5
+gudeeda	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	N	FALSE	production	0.2	13	0.266666666666667	21	-1	participant 1
+gudeeda	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	production	0.0666666666666667	1	0.266666666666667	21	1	participant 12
+gudeeda	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	production	0.133333333333333	6	0.266666666666667	21	1	participant 7
+gudeeda	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	Y	TRUE	production	0.166666666666667	10	0.266666666666667	21	1	participant 16
+gudeeda	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	Y	TRUE	production	0.5	29	0.266666666666667	21	-1	participant 26
+gudeeda	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	N	FALSE	production	0.2	14	0.266666666666667	21	0	participant 6
+gudeeda	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	production	0.133333333333333	7	0.266666666666667	21	1	participant 9
+gudeeda	14	13	Garawja	male	10	Malleyeck	class 2	N	FALSE	production	0.233333333333333	15	0.266666666666667	21	1	participant 18
+heywanda	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	comprehension	0.133333333333333	7	0.1	9	1	participant 9
+heywanda	13	14	Garawja	male	8	Malleyeck	pre-school	N	FALSE	comprehension	0.2	12	0.1	9	-1	participant 5
+heywanda	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	N	FALSE	comprehension	0.2	14	0.1	9	0	participant 6
+heywanda	1	1	Eshkesh	female	9	Aseecheeka	none	N	FALSE	comprehension	0.266666666666667	21	0.1	9	0	participant 27
+heywanda	2	1	Eshkesh	female	10	Bardeanajeega	none	Y	TRUE	comprehension	0.5	30	0.1	9	1	participant 23
+heywanda	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	comprehension	0.1	2	0.1	9	-1	participant 20
+heywanda	9	5	Getanyamba	female	10	Qawooga	none	N	FALSE	comprehension	0.266666666666667	16	0.1	9	1	participant 24
+heywanda	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	comprehension	0.1	3	0.1	9	-1	participant 15
+heywanda	3	2	Eshkesh	female	8	Aseecheeka	none	N	FALSE	comprehension	0.333333333333333	26	0.1	9	-1	participant 11
+heywanda	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	N	FALSE	comprehension	0.266666666666667	18	0.1	9	-1	participant 22
+heywanda	19	19	Getanyamba	male	10	Hilbagamas	class 2	N	FALSE	comprehension	0.166666666666667	11	0.1	9	1	participant 14
+heywanda	21	21	Eshkesh	male	10	Aseecheeka	none	N	FALSE	comprehension	0.333333333333333	25	0.1	9	1	participant 13
+heywanda	20	20	Getanyamba	female	8	Hilbagamas	class 1	N	FALSE	comprehension	0.266666666666667	20	0.1	9	-1	participant 28
+heywanda	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	N	FALSE	comprehension	0.5	29	0.1	9	-1	participant 26
+heywanda	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	comprehension	0.1	4	0.1	9	-2	participant 17
+heywanda	4	3	Eshkesh	male	8	Aseecheeka	none	N	FALSE	comprehension	0.166666666666667	8	0.1	9	-1	participant 4
+heywanda	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	comprehension	0.133333333333333	5	0.1	9	-1	participant 2
+heywanda	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	PC	TRUE	comprehension	0.2	13	0.1	9	-1	participant 1
+heywanda	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	N	FALSE	comprehension	0.266666666666667	17	0.1	9	-1	participant 29
+heywanda	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	N	FALSE	comprehension	0.266666666666667	22	0.1	9	0	participant 21
+heywanda	14	13	Garawja	male	10	Malleyeck	class 2	N	FALSE	comprehension	0.233333333333333	15	0.1	9	1	participant 18
+heywanda	30	30	Nyeamuusta	male	10	Dariidajeega	none	N	FALSE	comprehension	0.166666666666667	9	0.1	9	1	participant 25
+heywanda	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	comprehension	0.133333333333333	6	0.1	9	1	participant 7
+heywanda	17	17	Maguugu	female	8	Malleyeck	none	N	FALSE	comprehension	0.266666666666667	19	0.1	9	-1	participant 19
+heywanda	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	N	FALSE	comprehension	0.166666666666667	10	0.1	9	1	participant 16
+heywanda	11	11	Getanyamba	male	11	Haymahoo	class 5	N	FALSE	comprehension	0.3	24	0.1	9	2	participant 3
+heywanda	18	18	Getanyamba	female	9	Hilbagamas	class 1	N	FALSE	comprehension	0.433333333333333	27	0.1	9	0	participant 10
+heywanda	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	comprehension	0.0666666666666667	1	0.1	9	1	participant 12
+heywanda	16	16	Getanyamba	female	10	Bareaboojiga	class 1	N	FALSE	comprehension	0.3	23	0.1	9	1	participant 8
+hulanda	4	3	Eshkesh	male	8	Aseecheeka	none	N	FALSE	production	0.166666666666667	8	0.5	26	-1	participant 4
+hulanda	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	production	0.0666666666666667	1	0.5	26	1	participant 12
+hulanda	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	production	0.1	3	0.5	26	-1	participant 15
+hulanda	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	N	FALSE	production	0.266666666666667	22	0.5	26	0	participant 21
+hulanda	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	Y	TRUE	production	0.2	13	0.5	26	-1	participant 1
+hulanda	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	Y	TRUE	production	0.2	14	0.5	26	0	participant 6
+hulanda	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	production	0.133333333333333	6	0.5	26	1	participant 7
+hulanda	3	2	Eshkesh	female	8	Aseecheeka	none	Y	TRUE	production	0.333333333333333	26	0.5	26	-1	participant 11
+hulanda	20	20	Getanyamba	female	8	Hilbagamas	class 1	Y	TRUE	production	0.266666666666667	20	0.5	26	-1	participant 28
+hulanda	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	N	FALSE	production	0.266666666666667	18	0.5	26	-1	participant 22
+hulanda	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	production	0.133333333333333	7	0.5	26	1	participant 9
+hulanda	30	30	Nyeamuusta	male	10	Dariidajeega	none	Y	TRUE	production	0.166666666666667	9	0.5	26	1	participant 25
+hulanda	18	18	Getanyamba	female	9	Hilbagamas	class 1	Y	TRUE	production	0.433333333333333	27	0.5	26	0	participant 10
+hulanda	17	17	Maguugu	female	8	Malleyeck	none	N	FALSE	production	0.266666666666667	19	0.5	26	-1	participant 19
+hulanda	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	N	FALSE	production	0.166666666666667	10	0.5	26	1	participant 16
+hulanda	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	Y	TRUE	production	0.5	29	0.5	26	-1	participant 26
+hulanda	12	12	Getanyamba	female	8	Haymahoo	class 1	Y	TRUE	production	0.133333333333333	5	0.5	26	-1	participant 2
+hulanda	11	11	Getanyamba	male	11	Haymahoo	class 5	Y	TRUE	production	0.3	24	0.5	26	2	participant 3
+hulanda	19	19	Getanyamba	male	10	Hilbagamas	class 2	Y	TRUE	production	0.166666666666667	11	0.5	26	1	participant 14
+hulanda	21	21	Eshkesh	male	10	Aseecheeka	none	N	FALSE	production	0.333333333333333	25	0.5	26	1	participant 13
+hulanda	13	14	Garawja	male	8	Malleyeck	pre-school	Y	TRUE	production	0.2	12	0.5	26	-1	participant 5
+hulanda	1	1	Eshkesh	female	9	Aseecheeka	none	N	FALSE	production	0.266666666666667	21	0.5	26	0	participant 27
+hulanda	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	production	0.1	4	0.5	26	-2	participant 17
+hulanda	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	Y	TRUE	production	0.266666666666667	17	0.5	26	-1	participant 29
+hulanda	9	5	Getanyamba	female	10	Qawooga	none	N	FALSE	production	0.266666666666667	16	0.5	26	1	participant 24
+hulanda	14	13	Garawja	male	10	Malleyeck	class 2	Y	TRUE	production	0.233333333333333	15	0.5	26	1	participant 18
+hulanda	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	production	0.1	2	0.5	26	-1	participant 20
+hulanda	2	1	Eshkesh	female	10	Bardeanajeega	none	Y	TRUE	production	0.5	30	0.5	26	1	participant 23
+hulanda	16	16	Getanyamba	female	10	Bareaboojiga	class 1	N	FALSE	production	0.3	23	0.5	26	1	participant 8
+iita	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	production	0.0666666666666667	1	0.133333333333333	13	1	participant 12
+iita	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	production	0.1	2	0.133333333333333	13	-1	participant 20
+iita	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	production	0.133333333333333	5	0.133333333333333	13	-1	participant 2
+iita	4	3	Eshkesh	male	8	Aseecheeka	none	N	FALSE	production	0.166666666666667	8	0.133333333333333	13	-1	participant 4
+iita	3	2	Eshkesh	female	8	Aseecheeka	none	N	FALSE	production	0.333333333333333	26	0.133333333333333	13	-1	participant 11
+iita	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	N	FALSE	production	0.2	13	0.133333333333333	13	-1	participant 1
+iita	14	13	Garawja	male	10	Malleyeck	class 2	N	FALSE	production	0.233333333333333	15	0.133333333333333	13	1	participant 18
+iita	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	N	FALSE	production	0.266666666666667	18	0.133333333333333	13	-1	participant 22
+iita	1	1	Eshkesh	female	9	Aseecheeka	none	N	FALSE	production	0.266666666666667	21	0.133333333333333	13	0	participant 27
+iita	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	N	FALSE	production	0.166666666666667	10	0.133333333333333	13	1	participant 16
+iita	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	N	FALSE	production	0.266666666666667	22	0.133333333333333	13	0	participant 21
+iita	18	18	Getanyamba	female	9	Hilbagamas	class 1	Y	TRUE	production	0.433333333333333	27	0.133333333333333	13	0	participant 10
+iita	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	production	0.133333333333333	7	0.133333333333333	13	1	participant 9
+iita	9	5	Getanyamba	female	10	Qawooga	none	N	FALSE	production	0.266666666666667	16	0.133333333333333	13	1	participant 24
+iita	20	20	Getanyamba	female	8	Hilbagamas	class 1	N	FALSE	production	0.266666666666667	20	0.133333333333333	13	-1	participant 28
+iita	17	17	Maguugu	female	8	Malleyeck	none	N	FALSE	production	0.266666666666667	19	0.133333333333333	13	-1	participant 19
+iita	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	Y	TRUE	production	0.5	29	0.133333333333333	13	-1	participant 26
+iita	13	14	Garawja	male	8	Malleyeck	pre-school	N	FALSE	production	0.2	12	0.133333333333333	13	-1	participant 5
+iita	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	N	FALSE	production	0.2	14	0.133333333333333	13	0	participant 6
+iita	16	16	Getanyamba	female	10	Bareaboojiga	class 1	N	FALSE	production	0.3	23	0.133333333333333	13	1	participant 8
+iita	11	11	Getanyamba	male	11	Haymahoo	class 5	N	FALSE	production	0.3	24	0.133333333333333	13	2	participant 3
+iita	2	1	Eshkesh	female	10	Bardeanajeega	none	N	FALSE	production	0.5	30	0.133333333333333	13	1	participant 23
+iita	30	30	Nyeamuusta	male	10	Dariidajeega	none	N	FALSE	production	0.166666666666667	9	0.133333333333333	13	1	participant 25
+iita	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	N	FALSE	production	0.266666666666667	17	0.133333333333333	13	-1	participant 29
+iita	19	19	Getanyamba	male	10	Hilbagamas	class 2	Y	TRUE	production	0.166666666666667	11	0.133333333333333	13	1	participant 14
+iita	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	production	0.1	3	0.133333333333333	13	-1	participant 15
+iita	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	production	0.133333333333333	6	0.133333333333333	13	1	participant 7
+iita	21	21	Eshkesh	male	10	Aseecheeka	none	N	FALSE	production	0.333333333333333	25	0.133333333333333	13	1	participant 13
+iita	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	production	0.1	4	0.133333333333333	13	-2	participant 17
+jeepta	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	production	0.133333333333333	7	0.0666666666666667	5	1	participant 9
+jeepta	17	17	Maguugu	female	8	Malleyeck	none	N	FALSE	production	0.266666666666667	19	0.0666666666666667	5	-1	participant 19
+jeepta	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	production	0.0666666666666667	1	0.0666666666666667	5	1	participant 12
+jeepta	9	5	Getanyamba	female	10	Qawooga	none	N	FALSE	production	0.266666666666667	16	0.0666666666666667	5	1	participant 24
+jeepta	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	production	0.133333333333333	6	0.0666666666666667	5	1	participant 7
+jeepta	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	N	FALSE	production	0.2	13	0.0666666666666667	5	-1	participant 1
+jeepta	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	N	FALSE	production	0.266666666666667	18	0.0666666666666667	5	-1	participant 22
+jeepta	30	30	Nyeamuusta	male	10	Dariidajeega	none	N	FALSE	production	0.166666666666667	9	0.0666666666666667	5	1	participant 25
+jeepta	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	N	FALSE	production	0.2	14	0.0666666666666667	5	0	participant 6
+jeepta	13	14	Garawja	male	8	Malleyeck	pre-school	N	FALSE	production	0.2	12	0.0666666666666667	5	-1	participant 5
+jeepta	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	N	FALSE	production	0.166666666666667	10	0.0666666666666667	5	1	participant 16
+jeepta	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	N	FALSE	production	0.266666666666667	22	0.0666666666666667	5	0	participant 21
+jeepta	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	production	0.133333333333333	5	0.0666666666666667	5	-1	participant 2
+jeepta	14	13	Garawja	male	10	Malleyeck	class 2	N	FALSE	production	0.233333333333333	15	0.0666666666666667	5	1	participant 18
+jeepta	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	production	0.1	3	0.0666666666666667	5	-1	participant 15
+jeepta	19	19	Getanyamba	male	10	Hilbagamas	class 2	N	FALSE	production	0.166666666666667	11	0.0666666666666667	5	1	participant 14
+jeepta	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	N	FALSE	production	0.5	29	0.0666666666666667	5	-1	participant 26
+jeepta	2	1	Eshkesh	female	10	Bardeanajeega	none	N	FALSE	production	0.5	30	0.0666666666666667	5	1	participant 23
+jeepta	18	18	Getanyamba	female	9	Hilbagamas	class 1	N	FALSE	production	0.433333333333333	27	0.0666666666666667	5	0	participant 10
+jeepta	1	1	Eshkesh	female	9	Aseecheeka	none	N	FALSE	production	0.266666666666667	21	0.0666666666666667	5	0	participant 27
+jeepta	21	21	Eshkesh	male	10	Aseecheeka	none	N	FALSE	production	0.333333333333333	25	0.0666666666666667	5	1	participant 13
+jeepta	11	11	Getanyamba	male	11	Haymahoo	class 5	N	FALSE	production	0.3	24	0.0666666666666667	5	2	participant 3
+jeepta	4	3	Eshkesh	male	8	Aseecheeka	none	N	FALSE	production	0.166666666666667	8	0.0666666666666667	5	-1	participant 4
+jeepta	3	2	Eshkesh	female	8	Aseecheeka	none	Y	TRUE	production	0.333333333333333	26	0.0666666666666667	5	-1	participant 11
+jeepta	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	Y	TRUE	production	0.266666666666667	17	0.0666666666666667	5	-1	participant 29
+jeepta	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	production	0.1	2	0.0666666666666667	5	-1	participant 20
+jeepta	16	16	Getanyamba	female	10	Bareaboojiga	class 1	N	FALSE	production	0.3	23	0.0666666666666667	5	1	participant 8
+jeepta	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	production	0.1	4	0.0666666666666667	5	-2	participant 17
+jeepta	20	20	Getanyamba	female	8	Hilbagamas	class 1	N	FALSE	production	0.266666666666667	20	0.0666666666666667	5	-1	participant 28
+loosiida	21	21	Eshkesh	male	10	Aseecheeka	none	N	FALSE	production	0.333333333333333	25	0.166666666666667	15	1	participant 13
+loosiida	20	20	Getanyamba	female	8	Hilbagamas	class 1	N	FALSE	production	0.266666666666667	20	0.166666666666667	15	-1	participant 28
+loosiida	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	production	0.1	3	0.166666666666667	15	-1	participant 15
+loosiida	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	production	0.1	2	0.166666666666667	15	-1	participant 20
+loosiida	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	N	FALSE	production	0.2	13	0.166666666666667	15	-1	participant 1
+loosiida	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	Y	TRUE	production	0.266666666666667	18	0.166666666666667	15	-1	participant 22
+loosiida	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	Y	TRUE	production	0.5	29	0.166666666666667	15	-1	participant 26
+loosiida	4	3	Eshkesh	male	8	Aseecheeka	none	N	FALSE	production	0.166666666666667	8	0.166666666666667	15	-1	participant 4
+loosiida	9	5	Getanyamba	female	10	Qawooga	none	N	FALSE	production	0.266666666666667	16	0.166666666666667	15	1	participant 24
+loosiida	3	2	Eshkesh	female	8	Aseecheeka	none	N	FALSE	production	0.333333333333333	26	0.166666666666667	15	-1	participant 11
+loosiida	16	16	Getanyamba	female	10	Bareaboojiga	class 1	N	FALSE	production	0.3	23	0.166666666666667	15	1	participant 8
+loosiida	30	30	Nyeamuusta	male	10	Dariidajeega	none	N	FALSE	production	0.166666666666667	9	0.166666666666667	15	1	participant 25
+loosiida	14	13	Garawja	male	10	Malleyeck	class 2	N	FALSE	production	0.233333333333333	15	0.166666666666667	15	1	participant 18
+loosiida	11	11	Getanyamba	male	11	Haymahoo	class 5	N	FALSE	production	0.3	24	0.166666666666667	15	2	participant 3
+loosiida	19	19	Getanyamba	male	10	Hilbagamas	class 2	N	FALSE	production	0.166666666666667	11	0.166666666666667	15	1	participant 14
+loosiida	1	1	Eshkesh	female	9	Aseecheeka	none	N	FALSE	production	0.266666666666667	21	0.166666666666667	15	0	participant 27
+loosiida	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	N	FALSE	production	0.166666666666667	10	0.166666666666667	15	1	participant 16
+loosiida	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	production	0.1	4	0.166666666666667	15	-2	participant 17
+loosiida	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	Y	TRUE	production	0.133333333333333	7	0.166666666666667	15	1	participant 9
+loosiida	2	1	Eshkesh	female	10	Bardeanajeega	none	N	FALSE	production	0.5	30	0.166666666666667	15	1	participant 23
+loosiida	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	N	FALSE	production	0.2	14	0.166666666666667	15	0	participant 6
+loosiida	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	N	FALSE	production	0.266666666666667	22	0.166666666666667	15	0	participant 21
+loosiida	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	N	FALSE	production	0.266666666666667	17	0.166666666666667	15	-1	participant 29
+loosiida	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	production	0.133333333333333	6	0.166666666666667	15	1	participant 7
+loosiida	18	18	Getanyamba	female	9	Hilbagamas	class 1	Y	TRUE	production	0.433333333333333	27	0.166666666666667	15	0	participant 10
+loosiida	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	production	0.0666666666666667	1	0.166666666666667	15	1	participant 12
+loosiida	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	production	0.133333333333333	5	0.166666666666667	15	-1	participant 2
+loosiida	17	17	Maguugu	female	8	Malleyeck	none	N	FALSE	production	0.266666666666667	19	0.166666666666667	15	-1	participant 19
+loosiida	13	14	Garawja	male	8	Malleyeck	pre-school	N	FALSE	production	0.2	12	0.166666666666667	15	-1	participant 5
+manang'	16	16	Getanyamba	female	10	Bareaboojiga	class 1	Y	TRUE	production	0.3	23	0.233333333333333	19	1	participant 8
+manang'	2	1	Eshkesh	female	10	Bardeanajeega	none	Y	TRUE	production	0.5	30	0.233333333333333	19	1	participant 23
+manang'	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	production	0.1	3	0.233333333333333	19	-1	participant 15
+manang'	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	production	0.133333333333333	7	0.233333333333333	19	1	participant 9
+manang'	11	11	Getanyamba	male	11	Haymahoo	class 5	N	FALSE	production	0.3	24	0.233333333333333	19	2	participant 3
+manang'	13	14	Garawja	male	8	Malleyeck	pre-school	Y	TRUE	production	0.2	12	0.233333333333333	19	-1	participant 5
+manang'	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	production	0.133333333333333	6	0.233333333333333	19	1	participant 7
+manang'	30	30	Nyeamuusta	male	10	Dariidajeega	none	N	FALSE	production	0.166666666666667	9	0.233333333333333	19	1	participant 25
+manang'	20	20	Getanyamba	female	8	Hilbagamas	class 1	N	FALSE	production	0.266666666666667	20	0.233333333333333	19	-1	participant 28
+manang'	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	N	FALSE	production	0.2	13	0.233333333333333	19	-1	participant 1
+manang'	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	N	FALSE	production	0.166666666666667	10	0.233333333333333	19	1	participant 16
+manang'	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	production	0.133333333333333	5	0.233333333333333	19	-1	participant 2
+manang'	14	13	Garawja	male	10	Malleyeck	class 2	Y	TRUE	production	0.233333333333333	15	0.233333333333333	19	1	participant 18
+manang'	1	1	Eshkesh	female	9	Aseecheeka	none	N	FALSE	production	0.266666666666667	21	0.233333333333333	19	0	participant 27
+manang'	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	N	FALSE	production	0.2	14	0.233333333333333	19	0	participant 6
+manang'	19	19	Getanyamba	male	10	Hilbagamas	class 2	N	FALSE	production	0.166666666666667	11	0.233333333333333	19	1	participant 14
+manang'	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	Y	TRUE	production	0.266666666666667	18	0.233333333333333	19	-1	participant 22
+manang'	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	production	0.1	4	0.233333333333333	19	-2	participant 17
+manang'	4	3	Eshkesh	male	8	Aseecheeka	none	N	FALSE	production	0.166666666666667	8	0.233333333333333	19	-1	participant 4
+manang'	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	production	0.0666666666666667	1	0.233333333333333	19	1	participant 12
+manang'	9	5	Getanyamba	female	10	Qawooga	none	N	FALSE	production	0.266666666666667	16	0.233333333333333	19	1	participant 24
+manang'	18	18	Getanyamba	female	9	Hilbagamas	class 1	N	FALSE	production	0.433333333333333	27	0.233333333333333	19	0	participant 10
+manang'	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	production	0.1	2	0.233333333333333	19	-1	participant 20
+manang'	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	Y	TRUE	production	0.5	29	0.233333333333333	19	-1	participant 26
+manang'	17	17	Maguugu	female	8	Malleyeck	none	N	FALSE	production	0.266666666666667	19	0.233333333333333	19	-1	participant 19
+manang'	3	2	Eshkesh	female	8	Aseecheeka	none	N	FALSE	production	0.333333333333333	26	0.233333333333333	19	-1	participant 11
+manang'	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	N	FALSE	production	0.266666666666667	17	0.233333333333333	19	-1	participant 29
+manang'	21	21	Eshkesh	male	10	Aseecheeka	none	N	FALSE	production	0.333333333333333	25	0.233333333333333	19	1	participant 13
+manang'	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	N	FALSE	production	0.266666666666667	22	0.233333333333333	19	0	participant 21
+meeyoonga	30	30	Nyeamuusta	male	10	Dariidajeega	none	N	FALSE	comprehension	0.166666666666667	9	0.133333333333333	12	1	participant 25
+meeyoonga	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	N	FALSE	comprehension	0.166666666666667	10	0.133333333333333	12	1	participant 16
+meeyoonga	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	comprehension	0.1	3	0.133333333333333	12	-1	participant 15
+meeyoonga	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	comprehension	0.133333333333333	6	0.133333333333333	12	1	participant 7
+meeyoonga	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	N	FALSE	comprehension	0.266666666666667	17	0.133333333333333	12	-1	participant 29
+meeyoonga	2	1	Eshkesh	female	10	Bardeanajeega	none	N	FALSE	comprehension	0.5	30	0.133333333333333	12	1	participant 23
+meeyoonga	3	2	Eshkesh	female	8	Aseecheeka	none	N	FALSE	comprehension	0.333333333333333	26	0.133333333333333	12	-1	participant 11
+meeyoonga	20	20	Getanyamba	female	8	Hilbagamas	class 1	N	FALSE	comprehension	0.266666666666667	20	0.133333333333333	12	-1	participant 28
+meeyoonga	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	N	FALSE	comprehension	0.266666666666667	18	0.133333333333333	12	-1	participant 22
+meeyoonga	12	12	Getanyamba	female	8	Haymahoo	class 1	Y	TRUE	comprehension	0.133333333333333	5	0.133333333333333	12	-1	participant 2
+meeyoonga	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	comprehension	0.133333333333333	7	0.133333333333333	12	1	participant 9
+meeyoonga	19	19	Getanyamba	male	10	Hilbagamas	class 2	N	FALSE	comprehension	0.166666666666667	11	0.133333333333333	12	1	participant 14
+meeyoonga	21	21	Eshkesh	male	10	Aseecheeka	none	N	FALSE	comprehension	0.333333333333333	25	0.133333333333333	12	1	participant 13
+meeyoonga	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	comprehension	0.0666666666666667	1	0.133333333333333	12	1	participant 12
+meeyoonga	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	comprehension	0.1	4	0.133333333333333	12	-2	participant 17
+meeyoonga	16	16	Getanyamba	female	10	Bareaboojiga	class 1	N	FALSE	comprehension	0.3	23	0.133333333333333	12	1	participant 8
+meeyoonga	17	17	Maguugu	female	8	Malleyeck	none	N	FALSE	comprehension	0.266666666666667	19	0.133333333333333	12	-1	participant 19
+meeyoonga	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	N	FALSE	comprehension	0.5	29	0.133333333333333	12	-1	participant 26
+meeyoonga	4	3	Eshkesh	male	8	Aseecheeka	none	N	FALSE	comprehension	0.166666666666667	8	0.133333333333333	12	-1	participant 4
+meeyoonga	14	13	Garawja	male	10	Malleyeck	class 2	N	FALSE	comprehension	0.233333333333333	15	0.133333333333333	12	1	participant 18
+meeyoonga	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	N	FALSE	comprehension	0.266666666666667	22	0.133333333333333	12	0	participant 21
+meeyoonga	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	N	FALSE	comprehension	0.2	14	0.133333333333333	12	0	participant 6
+meeyoonga	11	11	Getanyamba	male	11	Haymahoo	class 5	Y	TRUE	comprehension	0.3	24	0.133333333333333	12	2	participant 3
+meeyoonga	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	comprehension	0.1	2	0.133333333333333	12	-1	participant 20
+meeyoonga	18	18	Getanyamba	female	9	Hilbagamas	class 1	Y	TRUE	comprehension	0.433333333333333	27	0.133333333333333	12	0	participant 10
+meeyoonga	9	5	Getanyamba	female	10	Qawooga	none	Y	TRUE	comprehension	0.266666666666667	16	0.133333333333333	12	1	participant 24
+meeyoonga	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	N	FALSE	comprehension	0.2	13	0.133333333333333	12	-1	participant 1
+meeyoonga	13	14	Garawja	male	8	Malleyeck	pre-school	N	FALSE	comprehension	0.2	12	0.133333333333333	12	-1	participant 5
+meeyoonga	1	1	Eshkesh	female	9	Aseecheeka	none	N	FALSE	comprehension	0.266666666666667	21	0.133333333333333	12	0	participant 27
+mulealga	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	N	FALSE	comprehension	0.2	14	0.0666666666666667	3	0	participant 6
+mulealga	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	comprehension	0.133333333333333	7	0.0666666666666667	3	1	participant 9
+mulealga	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	N	FALSE	comprehension	0.5	29	0.0666666666666667	3	-1	participant 26
+mulealga	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	comprehension	0.1	2	0.0666666666666667	3	-1	participant 20
+mulealga	4	3	Eshkesh	male	8	Aseecheeka	none	N	FALSE	comprehension	0.166666666666667	8	0.0666666666666667	3	-1	participant 4
+mulealga	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	N	FALSE	comprehension	0.266666666666667	17	0.0666666666666667	3	-1	participant 29
+mulealga	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	comprehension	0.1	3	0.0666666666666667	3	-1	participant 15
+mulealga	3	2	Eshkesh	female	8	Aseecheeka	none	N	FALSE	comprehension	0.333333333333333	26	0.0666666666666667	3	-1	participant 11
+mulealga	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	comprehension	0.1	4	0.0666666666666667	3	-2	participant 17
+mulealga	18	18	Getanyamba	female	9	Hilbagamas	class 1	N	FALSE	comprehension	0.433333333333333	27	0.0666666666666667	3	0	participant 10
+mulealga	11	11	Getanyamba	male	11	Haymahoo	class 5	N	FALSE	comprehension	0.3	24	0.0666666666666667	3	2	participant 3
+mulealga	9	5	Getanyamba	female	10	Qawooga	none	N	FALSE	comprehension	0.266666666666667	16	0.0666666666666667	3	1	participant 24
+mulealga	21	21	Eshkesh	male	10	Aseecheeka	none	Y	TRUE	comprehension	0.333333333333333	25	0.0666666666666667	3	1	participant 13
+mulealga	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	N	FALSE	comprehension	0.266666666666667	18	0.0666666666666667	3	-1	participant 22
+mulealga	20	20	Getanyamba	female	8	Hilbagamas	class 1	N	FALSE	comprehension	0.266666666666667	20	0.0666666666666667	3	-1	participant 28
+mulealga	19	19	Getanyamba	male	10	Hilbagamas	class 2	N	FALSE	comprehension	0.166666666666667	11	0.0666666666666667	3	1	participant 14
+mulealga	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	N	FALSE	comprehension	0.266666666666667	22	0.0666666666666667	3	0	participant 21
+mulealga	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	comprehension	0.133333333333333	6	0.0666666666666667	3	1	participant 7
+mulealga	13	14	Garawja	male	8	Malleyeck	pre-school	N	FALSE	comprehension	0.2	12	0.0666666666666667	3	-1	participant 5
+mulealga	15	15	Garawja	male	10	Hilbasaleab	none	Y	TRUE	comprehension	0.0666666666666667	1	0.0666666666666667	3	1	participant 12
+mulealga	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	comprehension	0.133333333333333	5	0.0666666666666667	3	-1	participant 2
+mulealga	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	N	FALSE	comprehension	0.166666666666667	10	0.0666666666666667	3	1	participant 16
+mulealga	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	N	FALSE	comprehension	0.2	13	0.0666666666666667	3	-1	participant 1
+mulealga	2	1	Eshkesh	female	10	Bardeanajeega	none	N	FALSE	comprehension	0.5	30	0.0666666666666667	3	1	participant 23
+mulealga	16	16	Getanyamba	female	10	Bareaboojiga	class 1	N	FALSE	comprehension	0.3	23	0.0666666666666667	3	1	participant 8
+mulealga	14	13	Garawja	male	10	Malleyeck	class 2	N	FALSE	comprehension	0.233333333333333	15	0.0666666666666667	3	1	participant 18
+mulealga	17	17	Maguugu	female	8	Malleyeck	none	N	FALSE	comprehension	0.266666666666667	19	0.0666666666666667	3	-1	participant 19
+mulealga	30	30	Nyeamuusta	male	10	Dariidajeega	none	N	FALSE	comprehension	0.166666666666667	9	0.0666666666666667	3	1	participant 25
+mulealga	1	1	Eshkesh	female	9	Aseecheeka	none	N	FALSE	comprehension	0.266666666666667	21	0.0666666666666667	3	0	participant 27
+munyooda	11	11	Getanyamba	male	11	Haymahoo	class 5	Y	TRUE	comprehension	0.3	24	0.5	25	2	participant 3
+munyooda	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	comprehension	0.133333333333333	6	0.5	25	1	participant 7
+munyooda	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	N	FALSE	comprehension	0.2	14	0.5	25	0	participant 6
+munyooda	4	3	Eshkesh	male	8	Aseecheeka	none	N	FALSE	comprehension	0.166666666666667	8	0.5	25	-1	participant 4
+munyooda	3	2	Eshkesh	female	8	Aseecheeka	none	N	FALSE	comprehension	0.333333333333333	26	0.5	25	-1	participant 11
+munyooda	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	N	FALSE	comprehension	0.2	13	0.5	25	-1	participant 1
+munyooda	19	19	Getanyamba	male	10	Hilbagamas	class 2	Y	TRUE	comprehension	0.166666666666667	11	0.5	25	1	participant 14
+munyooda	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	comprehension	0.1	4	0.5	25	-2	participant 17
+munyooda	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	N	FALSE	comprehension	0.266666666666667	18	0.5	25	-1	participant 22
+munyooda	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	N	FALSE	comprehension	0.266666666666667	17	0.5	25	-1	participant 29
+munyooda	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	Y	TRUE	comprehension	0.1	3	0.5	25	-1	participant 15
+munyooda	20	20	Getanyamba	female	8	Hilbagamas	class 1	Y	TRUE	comprehension	0.266666666666667	20	0.5	25	-1	participant 28
+munyooda	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	Y	TRUE	comprehension	0.166666666666667	10	0.5	25	1	participant 16
+munyooda	14	13	Garawja	male	10	Malleyeck	class 2	Y	TRUE	comprehension	0.233333333333333	15	0.5	25	1	participant 18
+munyooda	18	18	Getanyamba	female	9	Hilbagamas	class 1	Y	TRUE	comprehension	0.433333333333333	27	0.5	25	0	participant 10
+munyooda	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	comprehension	0.133333333333333	7	0.5	25	1	participant 9
+munyooda	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	N	FALSE	comprehension	0.266666666666667	22	0.5	25	0	participant 21
+munyooda	16	16	Getanyamba	female	10	Bareaboojiga	class 1	Y	TRUE	comprehension	0.3	23	0.5	25	1	participant 8
+munyooda	30	30	Nyeamuusta	male	10	Dariidajeega	none	Y	TRUE	comprehension	0.166666666666667	9	0.5	25	1	participant 25
+munyooda	2	1	Eshkesh	female	10	Bardeanajeega	none	Y	TRUE	comprehension	0.5	30	0.5	25	1	participant 23
+munyooda	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	comprehension	0.0666666666666667	1	0.5	25	1	participant 12
+munyooda	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	comprehension	0.1	2	0.5	25	-1	participant 20
+munyooda	9	5	Getanyamba	female	10	Qawooga	none	Y	TRUE	comprehension	0.266666666666667	16	0.5	25	1	participant 24
+munyooda	1	1	Eshkesh	female	9	Aseecheeka	none	N	FALSE	comprehension	0.266666666666667	21	0.5	25	0	participant 27
+munyooda	17	17	Maguugu	female	8	Malleyeck	none	Y	TRUE	comprehension	0.266666666666667	19	0.5	25	-1	participant 19
+munyooda	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	N	FALSE	comprehension	0.5	29	0.5	25	-1	participant 26
+munyooda	12	12	Getanyamba	female	8	Haymahoo	class 1	Y	TRUE	comprehension	0.133333333333333	5	0.5	25	-1	participant 2
+munyooda	21	21	Eshkesh	male	10	Aseecheeka	none	Y	TRUE	comprehension	0.333333333333333	25	0.5	25	1	participant 13
+munyooda	13	14	Garawja	male	8	Malleyeck	pre-school	Y	TRUE	comprehension	0.2	12	0.5	25	-1	participant 5
+naweeda	9	5	Getanyamba	female	10	Qawooga	none	N	FALSE	production	0.266666666666667	16	0.3	22	1	participant 24
+naweeda	4	3	Eshkesh	male	8	Aseecheeka	none	Y	TRUE	production	0.166666666666667	8	0.3	22	-1	participant 4
+naweeda	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	N	FALSE	production	0.2	14	0.3	22	0	participant 6
+naweeda	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	production	0.1	3	0.3	22	-1	participant 15
+naweeda	14	13	Garawja	male	10	Malleyeck	class 2	Y	TRUE	production	0.233333333333333	15	0.3	22	1	participant 18
+naweeda	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	Y	TRUE	production	0.266666666666667	22	0.3	22	0	participant 21
+naweeda	17	17	Maguugu	female	8	Malleyeck	none	N	FALSE	production	0.266666666666667	19	0.3	22	-1	participant 19
+naweeda	21	21	Eshkesh	male	10	Aseecheeka	none	Y	TRUE	production	0.333333333333333	25	0.3	22	1	participant 13
+naweeda	11	11	Getanyamba	male	11	Haymahoo	class 5	N	FALSE	production	0.3	24	0.3	22	2	participant 3
+naweeda	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	Y	TRUE	production	0.5	29	0.3	22	-1	participant 26
+naweeda	1	1	Eshkesh	female	9	Aseecheeka	none	Y	TRUE	production	0.266666666666667	21	0.3	22	0	participant 27
+naweeda	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	N	FALSE	production	0.2	13	0.3	22	-1	participant 1
+naweeda	19	19	Getanyamba	male	10	Hilbagamas	class 2	N	FALSE	production	0.166666666666667	11	0.3	22	1	participant 14
+naweeda	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	production	0.133333333333333	6	0.3	22	1	participant 7
+naweeda	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	N	FALSE	production	0.266666666666667	17	0.3	22	-1	participant 29
+naweeda	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	production	0.1	2	0.3	22	-1	participant 20
+naweeda	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	production	0.0666666666666667	1	0.3	22	1	participant 12
+naweeda	2	1	Eshkesh	female	10	Bardeanajeega	none	Y	TRUE	production	0.5	30	0.3	22	1	participant 23
+naweeda	3	2	Eshkesh	female	8	Aseecheeka	none	Y	TRUE	production	0.333333333333333	26	0.3	22	-1	participant 11
+naweeda	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	production	0.133333333333333	5	0.3	22	-1	participant 2
+naweeda	20	20	Getanyamba	female	8	Hilbagamas	class 1	N	FALSE	production	0.266666666666667	20	0.3	22	-1	participant 28
+naweeda	13	14	Garawja	male	8	Malleyeck	pre-school	N	FALSE	production	0.2	12	0.3	22	-1	participant 5
+naweeda	30	30	Nyeamuusta	male	10	Dariidajeega	none	N	FALSE	production	0.166666666666667	9	0.3	22	1	participant 25
+naweeda	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	N	FALSE	production	0.266666666666667	18	0.3	22	-1	participant 22
+naweeda	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	production	0.1	4	0.3	22	-2	participant 17
+naweeda	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	N	FALSE	production	0.166666666666667	10	0.3	22	1	participant 16
+naweeda	16	16	Getanyamba	female	10	Bareaboojiga	class 1	N	FALSE	production	0.3	23	0.3	22	1	participant 8
+naweeda	18	18	Getanyamba	female	9	Hilbagamas	class 1	N	FALSE	production	0.433333333333333	27	0.3	22	0	participant 10
+naweeda	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	production	0.133333333333333	7	0.3	22	1	participant 9
+ng'ead	21	21	Eshkesh	male	10	Aseecheeka	none	N	FALSE	production	0.333333333333333	25	0.1	11	1	participant 13
+ng'ead	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	production	0.1	4	0.1	11	-2	participant 17
+ng'ead	1	1	Eshkesh	female	9	Aseecheeka	none	PC	TRUE	production	0.266666666666667	21	0.1	11	0	participant 27
+ng'ead	9	5	Getanyamba	female	10	Qawooga	none	N	FALSE	production	0.266666666666667	16	0.1	11	1	participant 24
+ng'ead	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	N	FALSE	production	0.2	14	0.1	11	0	participant 6
+ng'ead	14	13	Garawja	male	10	Malleyeck	class 2	N	FALSE	production	0.233333333333333	15	0.1	11	1	participant 18
+ng'ead	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	production	0.133333333333333	7	0.1	11	1	participant 9
+ng'ead	13	14	Garawja	male	8	Malleyeck	pre-school	N	FALSE	production	0.2	12	0.1	11	-1	participant 5
+ng'ead	30	30	Nyeamuusta	male	10	Dariidajeega	none	N	FALSE	production	0.166666666666667	9	0.1	11	1	participant 25
+ng'ead	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	N	FALSE	production	0.266666666666667	17	0.1	11	-1	participant 29
+ng'ead	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	production	0.133333333333333	6	0.1	11	1	participant 7
+ng'ead	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	N	FALSE	production	0.5	29	0.1	11	-1	participant 26
+ng'ead	18	18	Getanyamba	female	9	Hilbagamas	class 1	N	FALSE	production	0.433333333333333	27	0.1	11	0	participant 10
+ng'ead	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	production	0.0666666666666667	1	0.1	11	1	participant 12
+ng'ead	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	N	FALSE	production	0.2	13	0.1	11	-1	participant 1
+ng'ead	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	production	0.133333333333333	5	0.1	11	-1	participant 2
+ng'ead	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	production	0.1	2	0.1	11	-1	participant 20
+ng'ead	11	11	Getanyamba	male	11	Haymahoo	class 5	N	FALSE	production	0.3	24	0.1	11	2	participant 3
+ng'ead	19	19	Getanyamba	male	10	Hilbagamas	class 2	N	FALSE	production	0.166666666666667	11	0.1	11	1	participant 14
+ng'ead	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	N	FALSE	production	0.166666666666667	10	0.1	11	1	participant 16
+ng'ead	4	3	Eshkesh	male	8	Aseecheeka	none	N	FALSE	production	0.166666666666667	8	0.1	11	-1	participant 4
+ng'ead	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	Y	TRUE	production	0.266666666666667	22	0.1	11	0	participant 21
+ng'ead	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	N	FALSE	production	0.266666666666667	18	0.1	11	-1	participant 22
+ng'ead	16	16	Getanyamba	female	10	Bareaboojiga	class 1	N	FALSE	production	0.3	23	0.1	11	1	participant 8
+ng'ead	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	production	0.1	3	0.1	11	-1	participant 15
+ng'ead	2	1	Eshkesh	female	10	Bardeanajeega	none	N	FALSE	production	0.5	30	0.1	11	1	participant 23
+ng'ead	17	17	Maguugu	female	8	Malleyeck	none	N	FALSE	production	0.266666666666667	19	0.1	11	-1	participant 19
+ng'ead	3	2	Eshkesh	female	8	Aseecheeka	none	N	FALSE	production	0.333333333333333	26	0.1	11	-1	participant 11
+ng'ead	20	20	Getanyamba	female	8	Hilbagamas	class 1	N	FALSE	production	0.266666666666667	20	0.1	11	-1	participant 28
+nyeawuuda	13	14	Garawja	male	8	Malleyeck	pre-school	N	FALSE	production	0.2	12	0.233333333333333	20	-1	participant 5
+nyeawuuda	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	production	0.1	4	0.233333333333333	20	-2	participant 17
+nyeawuuda	2	1	Eshkesh	female	10	Bardeanajeega	none	N	FALSE	production	0.5	30	0.233333333333333	20	1	participant 23
+nyeawuuda	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	N	FALSE	production	0.2	14	0.233333333333333	20	0	participant 6
+nyeawuuda	18	18	Getanyamba	female	9	Hilbagamas	class 1	Y	TRUE	production	0.433333333333333	27	0.233333333333333	20	0	participant 10
+nyeawuuda	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	N	FALSE	production	0.266666666666667	18	0.233333333333333	20	-1	participant 22
+nyeawuuda	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	N	FALSE	production	0.2	13	0.233333333333333	20	-1	participant 1
+nyeawuuda	9	5	Getanyamba	female	10	Qawooga	none	N	FALSE	production	0.266666666666667	16	0.233333333333333	20	1	participant 24
+nyeawuuda	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	production	0.133333333333333	6	0.233333333333333	20	1	participant 7
+nyeawuuda	1	1	Eshkesh	female	9	Aseecheeka	none	Y	TRUE	production	0.266666666666667	21	0.233333333333333	20	0	participant 27
+nyeawuuda	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	Y	TRUE	production	0.266666666666667	22	0.233333333333333	20	0	participant 21
+nyeawuuda	11	11	Getanyamba	male	11	Haymahoo	class 5	N	FALSE	production	0.3	24	0.233333333333333	20	2	participant 3
+nyeawuuda	14	13	Garawja	male	10	Malleyeck	class 2	N	FALSE	production	0.233333333333333	15	0.233333333333333	20	1	participant 18
+nyeawuuda	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	production	0.133333333333333	7	0.233333333333333	20	1	participant 9
+nyeawuuda	3	2	Eshkesh	female	8	Aseecheeka	none	N	FALSE	production	0.333333333333333	26	0.233333333333333	20	-1	participant 11
+nyeawuuda	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	N	FALSE	production	0.166666666666667	10	0.233333333333333	20	1	participant 16
+nyeawuuda	4	3	Eshkesh	male	8	Aseecheeka	none	Y	TRUE	production	0.166666666666667	8	0.233333333333333	20	-1	participant 4
+nyeawuuda	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	N	FALSE	production	0.5	29	0.233333333333333	20	-1	participant 26
+nyeawuuda	17	17	Maguugu	female	8	Malleyeck	none	Y	TRUE	production	0.266666666666667	19	0.233333333333333	20	-1	participant 19
+nyeawuuda	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	production	0.1	3	0.233333333333333	20	-1	participant 15
+nyeawuuda	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	production	0.133333333333333	5	0.233333333333333	20	-1	participant 2
+nyeawuuda	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	production	0.0666666666666667	1	0.233333333333333	20	1	participant 12
+nyeawuuda	20	20	Getanyamba	female	8	Hilbagamas	class 1	Y	TRUE	production	0.266666666666667	20	0.233333333333333	20	-1	participant 28
+nyeawuuda	30	30	Nyeamuusta	male	10	Dariidajeega	none	N	FALSE	production	0.166666666666667	9	0.233333333333333	20	1	participant 25
+nyeawuuda	16	16	Getanyamba	female	10	Bareaboojiga	class 1	N	FALSE	production	0.3	23	0.233333333333333	20	1	participant 8
+nyeawuuda	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	production	0.1	2	0.233333333333333	20	-1	participant 20
+nyeawuuda	21	21	Eshkesh	male	10	Aseecheeka	none	N	FALSE	production	0.333333333333333	25	0.233333333333333	20	1	participant 13
+nyeawuuda	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	N	FALSE	production	0.266666666666667	17	0.233333333333333	20	-1	participant 29
+nyeawuuda	19	19	Getanyamba	male	10	Hilbagamas	class 2	N	FALSE	production	0.166666666666667	11	0.233333333333333	20	1	participant 14
+qamadiiw	17	17	Maguugu	female	8	Malleyeck	none	PC	TRUE	comprehension	0.266666666666667	19	0.7	30	-1	participant 19
+qamadiiw	1	1	Eshkesh	female	9	Aseecheeka	none	Y	TRUE	comprehension	0.266666666666667	21	0.7	30	0	participant 27
+qamadiiw	13	14	Garawja	male	8	Malleyeck	pre-school	Y	TRUE	comprehension	0.2	12	0.7	30	-1	participant 5
+qamadiiw	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	comprehension	0.1	2	0.7	30	-1	participant 20
+qamadiiw	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	PC	TRUE	comprehension	0.1	3	0.7	30	-1	participant 15
+qamadiiw	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	PC	TRUE	comprehension	0.133333333333333	7	0.7	30	1	participant 9
+qamadiiw	20	20	Getanyamba	female	8	Hilbagamas	class 1	N	FALSE	comprehension	0.266666666666667	20	0.7	30	-1	participant 28
+qamadiiw	30	30	Nyeamuusta	male	10	Dariidajeega	none	PC	TRUE	comprehension	0.166666666666667	9	0.7	30	1	participant 25
+qamadiiw	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	comprehension	0.0666666666666667	1	0.7	30	1	participant 12
+qamadiiw	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	Y	TRUE	comprehension	0.2	14	0.7	30	0	participant 6
+qamadiiw	16	16	Getanyamba	female	10	Bareaboojiga	class 1	PC	TRUE	comprehension	0.3	23	0.7	30	1	participant 8
+qamadiiw	18	18	Getanyamba	female	9	Hilbagamas	class 1	N	FALSE	comprehension	0.433333333333333	27	0.7	30	0	participant 10
+qamadiiw	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	comprehension	0.133333333333333	6	0.7	30	1	participant 7
+qamadiiw	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	PC	TRUE	comprehension	0.166666666666667	10	0.7	30	1	participant 16
+qamadiiw	3	2	Eshkesh	female	8	Aseecheeka	none	PC	TRUE	comprehension	0.333333333333333	26	0.7	30	-1	participant 11
+qamadiiw	9	5	Getanyamba	female	10	Qawooga	none	PC	TRUE	comprehension	0.266666666666667	16	0.7	30	1	participant 24
+qamadiiw	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	PC	TRUE	comprehension	0.266666666666667	17	0.7	30	-1	participant 29
+qamadiiw	2	1	Eshkesh	female	10	Bardeanajeega	none	Y	TRUE	comprehension	0.5	30	0.7	30	1	participant 23
+qamadiiw	12	12	Getanyamba	female	8	Haymahoo	class 1	Y	TRUE	comprehension	0.133333333333333	5	0.7	30	-1	participant 2
+qamadiiw	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	N	FALSE	comprehension	0.266666666666667	22	0.7	30	0	participant 21
+qamadiiw	4	3	Eshkesh	male	8	Aseecheeka	none	N	FALSE	comprehension	0.166666666666667	8	0.7	30	-1	participant 4
+qamadiiw	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	PC	TRUE	comprehension	0.5	29	0.7	30	-1	participant 26
+qamadiiw	14	13	Garawja	male	10	Malleyeck	class 2	N	FALSE	comprehension	0.233333333333333	15	0.7	30	1	participant 18
+qamadiiw	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	PC	TRUE	comprehension	0.1	4	0.7	30	-2	participant 17
+qamadiiw	21	21	Eshkesh	male	10	Aseecheeka	none	Y	TRUE	comprehension	0.333333333333333	25	0.7	30	1	participant 13
+qamadiiw	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	Y	TRUE	comprehension	0.266666666666667	18	0.7	30	-1	participant 22
+qamadiiw	19	19	Getanyamba	male	10	Hilbagamas	class 2	N	FALSE	comprehension	0.166666666666667	11	0.7	30	1	participant 14
+qamadiiw	11	11	Getanyamba	male	11	Haymahoo	class 5	Y	TRUE	comprehension	0.3	24	0.7	30	2	participant 3
+qamadiiw	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	PC	TRUE	comprehension	0.2	13	0.7	30	-1	participant 1
+qeeda	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	production	0.133333333333333	7	0.2	18	1	participant 9
+qeeda	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	production	0.1	3	0.2	18	-1	participant 15
+qeeda	3	2	Eshkesh	female	8	Aseecheeka	none	Y	TRUE	production	0.333333333333333	26	0.2	18	-1	participant 11
+qeeda	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	N	FALSE	production	0.266666666666667	18	0.2	18	-1	participant 22
+qeeda	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	N	FALSE	production	0.166666666666667	10	0.2	18	1	participant 16
+qeeda	17	17	Maguugu	female	8	Malleyeck	none	N	FALSE	production	0.266666666666667	19	0.2	18	-1	participant 19
+qeeda	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	production	0.133333333333333	5	0.2	18	-1	participant 2
+qeeda	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	production	0.1	2	0.2	18	-1	participant 20
+qeeda	4	3	Eshkesh	male	8	Aseecheeka	none	N	FALSE	production	0.166666666666667	8	0.2	18	-1	participant 4
+qeeda	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	production	0.0666666666666667	1	0.2	18	1	participant 12
+qeeda	30	30	Nyeamuusta	male	10	Dariidajeega	none	N	FALSE	production	0.166666666666667	9	0.2	18	1	participant 25
+qeeda	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	PC	TRUE	production	0.266666666666667	22	0.2	18	0	participant 21
+qeeda	2	1	Eshkesh	female	10	Bardeanajeega	none	Y	TRUE	production	0.5	30	0.2	18	1	participant 23
+qeeda	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	N	FALSE	production	0.2	14	0.2	18	0	participant 6
+qeeda	11	11	Getanyamba	male	11	Haymahoo	class 5	N	FALSE	production	0.3	24	0.2	18	2	participant 3
+qeeda	9	5	Getanyamba	female	10	Qawooga	none	PC	TRUE	production	0.266666666666667	16	0.2	18	1	participant 24
+qeeda	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	N	FALSE	production	0.2	13	0.2	18	-1	participant 1
+qeeda	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	Y	TRUE	production	0.5	29	0.2	18	-1	participant 26
+qeeda	18	18	Getanyamba	female	9	Hilbagamas	class 1	N	FALSE	production	0.433333333333333	27	0.2	18	0	participant 10
+qeeda	20	20	Getanyamba	female	8	Hilbagamas	class 1	N	FALSE	production	0.266666666666667	20	0.2	18	-1	participant 28
+qeeda	21	21	Eshkesh	male	10	Aseecheeka	none	Y	TRUE	production	0.333333333333333	25	0.2	18	1	participant 13
+qeeda	13	14	Garawja	male	8	Malleyeck	pre-school	N	FALSE	production	0.2	12	0.2	18	-1	participant 5
+qeeda	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	N	FALSE	production	0.266666666666667	17	0.2	18	-1	participant 29
+qeeda	14	13	Garawja	male	10	Malleyeck	class 2	N	FALSE	production	0.233333333333333	15	0.2	18	1	participant 18
+qeeda	16	16	Getanyamba	female	10	Bareaboojiga	class 1	N	FALSE	production	0.3	23	0.2	18	1	participant 8
+qeeda	1	1	Eshkesh	female	9	Aseecheeka	none	N	FALSE	production	0.266666666666667	21	0.2	18	0	participant 27
+qeeda	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	production	0.1	4	0.2	18	-2	participant 17
+qeeda	19	19	Getanyamba	male	10	Hilbagamas	class 2	N	FALSE	production	0.166666666666667	11	0.2	18	1	participant 14
+qeeda	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	production	0.133333333333333	6	0.2	18	1	participant 7
+roopta	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	Y	TRUE	production	0.266666666666667	22	0.333333333333333	23	0	participant 21
+roopta	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	production	0.133333333333333	7	0.333333333333333	23	1	participant 9
+roopta	20	20	Getanyamba	female	8	Hilbagamas	class 1	N	FALSE	production	0.266666666666667	20	0.333333333333333	23	-1	participant 28
+roopta	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	production	0.1	3	0.333333333333333	23	-1	participant 15
+roopta	16	16	Getanyamba	female	10	Bareaboojiga	class 1	N	FALSE	production	0.3	23	0.333333333333333	23	1	participant 8
+roopta	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	N	FALSE	production	0.2	14	0.333333333333333	23	0	participant 6
+roopta	21	21	Eshkesh	male	10	Aseecheeka	none	Y	TRUE	production	0.333333333333333	25	0.333333333333333	23	1	participant 13
+roopta	18	18	Getanyamba	female	9	Hilbagamas	class 1	N	FALSE	production	0.433333333333333	27	0.333333333333333	23	0	participant 10
+roopta	1	1	Eshkesh	female	9	Aseecheeka	none	N	FALSE	production	0.266666666666667	21	0.333333333333333	23	0	participant 27
+roopta	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	N	FALSE	production	0.166666666666667	10	0.333333333333333	23	1	participant 16
+roopta	3	2	Eshkesh	female	8	Aseecheeka	none	N	FALSE	production	0.333333333333333	26	0.333333333333333	23	-1	participant 11
+roopta	13	14	Garawja	male	8	Malleyeck	pre-school	Y	TRUE	production	0.2	12	0.333333333333333	23	-1	participant 5
+roopta	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	production	0.1	2	0.333333333333333	23	-1	participant 20
+roopta	19	19	Getanyamba	male	10	Hilbagamas	class 2	N	FALSE	production	0.166666666666667	11	0.333333333333333	23	1	participant 14
+roopta	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	N	FALSE	production	0.266666666666667	18	0.333333333333333	23	-1	participant 22
+roopta	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	production	0.133333333333333	5	0.333333333333333	23	-1	participant 2
+roopta	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	N	FALSE	production	0.2	13	0.333333333333333	23	-1	participant 1
+roopta	11	11	Getanyamba	male	11	Haymahoo	class 5	N	FALSE	production	0.3	24	0.333333333333333	23	2	participant 3
+roopta	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	production	0.133333333333333	6	0.333333333333333	23	1	participant 7
+roopta	4	3	Eshkesh	male	8	Aseecheeka	none	PC	TRUE	production	0.166666666666667	8	0.333333333333333	23	-1	participant 4
+roopta	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	production	0.1	4	0.333333333333333	23	-2	participant 17
+roopta	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	Y	TRUE	production	0.5	29	0.333333333333333	23	-1	participant 26
+roopta	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	production	0.0666666666666667	1	0.333333333333333	23	1	participant 12
+roopta	17	17	Maguugu	female	8	Malleyeck	none	Y	TRUE	production	0.266666666666667	19	0.333333333333333	23	-1	participant 19
+roopta	9	5	Getanyamba	female	10	Qawooga	none	N	FALSE	production	0.266666666666667	16	0.333333333333333	23	1	participant 24
+roopta	14	13	Garawja	male	10	Malleyeck	class 2	Y	TRUE	production	0.233333333333333	15	0.333333333333333	23	1	participant 18
+roopta	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	PC	TRUE	production	0.266666666666667	17	0.333333333333333	23	-1	participant 29
+roopta	2	1	Eshkesh	female	10	Bardeanajeega	none	Y	TRUE	production	0.5	30	0.333333333333333	23	1	participant 23
+roopta	30	30	Nyeamuusta	male	10	Dariidajeega	none	N	FALSE	production	0.166666666666667	9	0.333333333333333	23	1	participant 25
+saganda	13	14	Garawja	male	8	Malleyeck	pre-school	N	FALSE	comprehension	0.2	12	0.2	16	-1	participant 5
+saganda	2	1	Eshkesh	female	10	Bardeanajeega	none	N	FALSE	comprehension	0.5	30	0.2	16	1	participant 23
+saganda	20	20	Getanyamba	female	8	Hilbagamas	class 1	Y	TRUE	comprehension	0.266666666666667	20	0.2	16	-1	participant 28
+saganda	30	30	Nyeamuusta	male	10	Dariidajeega	none	N	FALSE	comprehension	0.166666666666667	9	0.2	16	1	participant 25
+saganda	4	3	Eshkesh	male	8	Aseecheeka	none	N	FALSE	comprehension	0.166666666666667	8	0.2	16	-1	participant 4
+saganda	3	2	Eshkesh	female	8	Aseecheeka	none	N	FALSE	comprehension	0.333333333333333	26	0.2	16	-1	participant 11
+saganda	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	comprehension	0.1	2	0.2	16	-1	participant 20
+saganda	21	21	Eshkesh	male	10	Aseecheeka	none	N	FALSE	comprehension	0.333333333333333	25	0.2	16	1	participant 13
+saganda	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	comprehension	0.133333333333333	5	0.2	16	-1	participant 2
+saganda	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	comprehension	0.1	3	0.2	16	-1	participant 15
+saganda	17	17	Maguugu	female	8	Malleyeck	none	N	FALSE	comprehension	0.266666666666667	19	0.2	16	-1	participant 19
+saganda	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	N	FALSE	comprehension	0.2	14	0.2	16	0	participant 6
+saganda	1	1	Eshkesh	female	9	Aseecheeka	none	N	FALSE	comprehension	0.266666666666667	21	0.2	16	0	participant 27
+saganda	16	16	Getanyamba	female	10	Bareaboojiga	class 1	N	FALSE	comprehension	0.3	23	0.2	16	1	participant 8
+saganda	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	comprehension	0.0666666666666667	1	0.2	16	1	participant 12
+saganda	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	N	FALSE	comprehension	0.5	29	0.2	16	-1	participant 26
+saganda	19	19	Getanyamba	male	10	Hilbagamas	class 2	Y	TRUE	comprehension	0.166666666666667	11	0.2	16	1	participant 14
+saganda	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	Y	TRUE	comprehension	0.266666666666667	18	0.2	16	-1	participant 22
+saganda	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	Y	TRUE	comprehension	0.1	4	0.2	16	-2	participant 17
+saganda	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	comprehension	0.133333333333333	7	0.2	16	1	participant 9
+saganda	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	N	FALSE	comprehension	0.266666666666667	22	0.2	16	0	participant 21
+saganda	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	N	FALSE	comprehension	0.166666666666667	10	0.2	16	1	participant 16
+saganda	18	18	Getanyamba	female	9	Hilbagamas	class 1	Y	TRUE	comprehension	0.433333333333333	27	0.2	16	0	participant 10
+saganda	14	13	Garawja	male	10	Malleyeck	class 2	N	FALSE	comprehension	0.233333333333333	15	0.2	16	1	participant 18
+saganda	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	N	FALSE	comprehension	0.266666666666667	17	0.2	16	-1	participant 29
+saganda	11	11	Getanyamba	male	11	Haymahoo	class 5	N	FALSE	comprehension	0.3	24	0.2	16	2	participant 3
+saganda	9	5	Getanyamba	female	10	Qawooga	none	N	FALSE	comprehension	0.266666666666667	16	0.2	16	1	participant 24
+saganda	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	N	FALSE	comprehension	0.2	13	0.2	16	-1	participant 1
+saganda	10	9	Getanyamba	female	10	Hilbagamas	class 2	Y	TRUE	comprehension	0.133333333333333	6	0.2	16	1	participant 7
+saseeda	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	production	0.1	3	0.0333333333333333	2	-1	participant 15
+saseeda	21	21	Eshkesh	male	10	Aseecheeka	none	N	FALSE	production	0.333333333333333	25	0.0333333333333333	2	1	participant 13
+saseeda	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	production	0.133333333333333	7	0.0333333333333333	2	1	participant 9
+saseeda	18	18	Getanyamba	female	9	Hilbagamas	class 1	N	FALSE	production	0.433333333333333	27	0.0333333333333333	2	0	participant 10
+saseeda	4	3	Eshkesh	male	8	Aseecheeka	none	N	FALSE	production	0.166666666666667	8	0.0333333333333333	2	-1	participant 4
+saseeda	3	2	Eshkesh	female	8	Aseecheeka	none	N	FALSE	production	0.333333333333333	26	0.0333333333333333	2	-1	participant 11
+saseeda	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	N	FALSE	production	0.5	29	0.0333333333333333	2	-1	participant 26
+saseeda	19	19	Getanyamba	male	10	Hilbagamas	class 2	N	FALSE	production	0.166666666666667	11	0.0333333333333333	2	1	participant 14
+saseeda	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	production	0.0666666666666667	1	0.0333333333333333	2	1	participant 12
+saseeda	2	1	Eshkesh	female	10	Bardeanajeega	none	N	FALSE	production	0.5	30	0.0333333333333333	2	1	participant 23
+saseeda	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	production	0.1	4	0.0333333333333333	2	-2	participant 17
+saseeda	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	production	0.133333333333333	5	0.0333333333333333	2	-1	participant 2
+saseeda	11	11	Getanyamba	male	11	Haymahoo	class 5	N	FALSE	production	0.3	24	0.0333333333333333	2	2	participant 3
+saseeda	13	14	Garawja	male	8	Malleyeck	pre-school	N	FALSE	production	0.2	12	0.0333333333333333	2	-1	participant 5
+saseeda	14	13	Garawja	male	10	Malleyeck	class 2	N	FALSE	production	0.233333333333333	15	0.0333333333333333	2	1	participant 18
+saseeda	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	N	FALSE	production	0.166666666666667	10	0.0333333333333333	2	1	participant 16
+saseeda	17	17	Maguugu	female	8	Malleyeck	none	N	FALSE	production	0.266666666666667	19	0.0333333333333333	2	-1	participant 19
+saseeda	10	9	Getanyamba	female	10	Hilbagamas	class 2	Y	TRUE	production	0.133333333333333	6	0.0333333333333333	2	1	participant 7
+saseeda	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	N	FALSE	production	0.266666666666667	17	0.0333333333333333	2	-1	participant 29
+saseeda	9	5	Getanyamba	female	10	Qawooga	none	N	FALSE	production	0.266666666666667	16	0.0333333333333333	2	1	participant 24
+saseeda	30	30	Nyeamuusta	male	10	Dariidajeega	none	N	FALSE	production	0.166666666666667	9	0.0333333333333333	2	1	participant 25
+saseeda	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	N	FALSE	production	0.266666666666667	22	0.0333333333333333	2	0	participant 21
+saseeda	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	N	FALSE	production	0.266666666666667	18	0.0333333333333333	2	-1	participant 22
+saseeda	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	N	FALSE	production	0.2	14	0.0333333333333333	2	0	participant 6
+saseeda	16	16	Getanyamba	female	10	Bareaboojiga	class 1	N	FALSE	production	0.3	23	0.0333333333333333	2	1	participant 8
+saseeda	20	20	Getanyamba	female	8	Hilbagamas	class 1	N	FALSE	production	0.266666666666667	20	0.0333333333333333	2	-1	participant 28
+saseeda	1	1	Eshkesh	female	9	Aseecheeka	none	N	FALSE	production	0.266666666666667	21	0.0333333333333333	2	0	participant 27
+saseeda	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	N	FALSE	production	0.2	13	0.0333333333333333	2	-1	participant 1
+saseeda	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	production	0.1	2	0.0333333333333333	2	-1	participant 20
+seang'da	14	13	Garawja	male	10	Malleyeck	class 2	N	FALSE	comprehension	0.233333333333333	15	0.1	7	1	participant 18
+seang'da	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	N	FALSE	comprehension	0.2	13	0.1	7	-1	participant 1
+seang'da	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	comprehension	0.133333333333333	5	0.1	7	-1	participant 2
+seang'da	19	19	Getanyamba	male	10	Hilbagamas	class 2	N	FALSE	comprehension	0.166666666666667	11	0.1	7	1	participant 14
+seang'da	13	14	Garawja	male	8	Malleyeck	pre-school	N	FALSE	comprehension	0.2	12	0.1	7	-1	participant 5
+seang'da	18	18	Getanyamba	female	9	Hilbagamas	class 1	Y	TRUE	comprehension	0.433333333333333	27	0.1	7	0	participant 10
+seang'da	16	16	Getanyamba	female	10	Bareaboojiga	class 1	N	FALSE	comprehension	0.3	23	0.1	7	1	participant 8
+seang'da	9	5	Getanyamba	female	10	Qawooga	none	N	FALSE	comprehension	0.266666666666667	16	0.1	7	1	participant 24
+seang'da	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	comprehension	0.1	2	0.1	7	-1	participant 20
+seang'da	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	comprehension	0.133333333333333	6	0.1	7	1	participant 7
+seang'da	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	comprehension	0.1	3	0.1	7	-1	participant 15
+seang'da	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	N	FALSE	comprehension	0.166666666666667	10	0.1	7	1	participant 16
+seang'da	1	1	Eshkesh	female	9	Aseecheeka	none	N	FALSE	comprehension	0.266666666666667	21	0.1	7	0	participant 27
+seang'da	11	11	Getanyamba	male	11	Haymahoo	class 5	N	FALSE	comprehension	0.3	24	0.1	7	2	participant 3
+seang'da	4	3	Eshkesh	male	8	Aseecheeka	none	N	FALSE	comprehension	0.166666666666667	8	0.1	7	-1	participant 4
+seang'da	20	20	Getanyamba	female	8	Hilbagamas	class 1	N	FALSE	comprehension	0.266666666666667	20	0.1	7	-1	participant 28
+seang'da	30	30	Nyeamuusta	male	10	Dariidajeega	none	Y	TRUE	comprehension	0.166666666666667	9	0.1	7	1	participant 25
+seang'da	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	comprehension	0.0666666666666667	1	0.1	7	1	participant 12
+seang'da	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	N	FALSE	comprehension	0.2	14	0.1	7	0	participant 6
+seang'da	17	17	Maguugu	female	8	Malleyeck	none	N	FALSE	comprehension	0.266666666666667	19	0.1	7	-1	participant 19
+seang'da	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	comprehension	0.1	4	0.1	7	-2	participant 17
+seang'da	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	N	FALSE	comprehension	0.266666666666667	22	0.1	7	0	participant 21
+seang'da	2	1	Eshkesh	female	10	Bardeanajeega	none	N	FALSE	comprehension	0.5	30	0.1	7	1	participant 23
+seang'da	3	2	Eshkesh	female	8	Aseecheeka	none	N	FALSE	comprehension	0.333333333333333	26	0.1	7	-1	participant 11
+seang'da	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	N	FALSE	comprehension	0.5	29	0.1	7	-1	participant 26
+seang'da	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	N	FALSE	comprehension	0.266666666666667	17	0.1	7	-1	participant 29
+seang'da	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	N	FALSE	comprehension	0.266666666666667	18	0.1	7	-1	participant 22
+seang'da	21	21	Eshkesh	male	10	Aseecheeka	none	N	FALSE	comprehension	0.333333333333333	25	0.1	7	1	participant 13
+seang'da	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	comprehension	0.133333333333333	7	0.1	7	1	participant 9
+sheeda	4	3	Eshkesh	male	8	Aseecheeka	none	N	FALSE	production	0.166666666666667	8	0.0666666666666667	6	-1	participant 4
+sheeda	14	13	Garawja	male	10	Malleyeck	class 2	N	FALSE	production	0.233333333333333	15	0.0666666666666667	6	1	participant 18
+sheeda	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	N	FALSE	production	0.5	29	0.0666666666666667	6	-1	participant 26
+sheeda	16	16	Getanyamba	female	10	Bareaboojiga	class 1	N	FALSE	production	0.3	23	0.0666666666666667	6	1	participant 8
+sheeda	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	production	0.133333333333333	6	0.0666666666666667	6	1	participant 7
+sheeda	15	15	Garawja	male	10	Hilbasaleab	none	Y	TRUE	production	0.0666666666666667	1	0.0666666666666667	6	1	participant 12
+sheeda	21	21	Eshkesh	male	10	Aseecheeka	none	N	FALSE	production	0.333333333333333	25	0.0666666666666667	6	1	participant 13
+sheeda	19	19	Getanyamba	male	10	Hilbagamas	class 2	N	FALSE	production	0.166666666666667	11	0.0666666666666667	6	1	participant 14
+sheeda	2	1	Eshkesh	female	10	Bardeanajeega	none	Y	TRUE	production	0.5	30	0.0666666666666667	6	1	participant 23
+sheeda	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	N	FALSE	production	0.266666666666667	22	0.0666666666666667	6	0	participant 21
+sheeda	30	30	Nyeamuusta	male	10	Dariidajeega	none	N	FALSE	production	0.166666666666667	9	0.0666666666666667	6	1	participant 25
+sheeda	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	N	FALSE	production	0.166666666666667	10	0.0666666666666667	6	1	participant 16
+sheeda	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	N	FALSE	production	0.266666666666667	18	0.0666666666666667	6	-1	participant 22
+sheeda	9	5	Getanyamba	female	10	Qawooga	none	N	FALSE	production	0.266666666666667	16	0.0666666666666667	6	1	participant 24
+sheeda	3	2	Eshkesh	female	8	Aseecheeka	none	N	FALSE	production	0.333333333333333	26	0.0666666666666667	6	-1	participant 11
+sheeda	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	N	FALSE	production	0.2	13	0.0666666666666667	6	-1	participant 1
+sheeda	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	production	0.1	3	0.0666666666666667	6	-1	participant 15
+sheeda	20	20	Getanyamba	female	8	Hilbagamas	class 1	N	FALSE	production	0.266666666666667	20	0.0666666666666667	6	-1	participant 28
+sheeda	17	17	Maguugu	female	8	Malleyeck	none	N	FALSE	production	0.266666666666667	19	0.0666666666666667	6	-1	participant 19
+sheeda	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	production	0.133333333333333	5	0.0666666666666667	6	-1	participant 2
+sheeda	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	N	FALSE	production	0.2	14	0.0666666666666667	6	0	participant 6
+sheeda	11	11	Getanyamba	male	11	Haymahoo	class 5	N	FALSE	production	0.3	24	0.0666666666666667	6	2	participant 3
+sheeda	18	18	Getanyamba	female	9	Hilbagamas	class 1	N	FALSE	production	0.433333333333333	27	0.0666666666666667	6	0	participant 10
+sheeda	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	N	FALSE	production	0.266666666666667	17	0.0666666666666667	6	-1	participant 29
+sheeda	1	1	Eshkesh	female	9	Aseecheeka	none	N	FALSE	production	0.266666666666667	21	0.0666666666666667	6	0	participant 27
+sheeda	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	production	0.133333333333333	7	0.0666666666666667	6	1	participant 9
+sheeda	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	production	0.1	4	0.0666666666666667	6	-2	participant 17
+sheeda	13	14	Garawja	male	8	Malleyeck	pre-school	N	FALSE	production	0.2	12	0.0666666666666667	6	-1	participant 5
+sheeda	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	production	0.1	2	0.0666666666666667	6	-1	participant 20
+unqaqooda	21	21	Eshkesh	male	10	Aseecheeka	none	N	FALSE	production	0.333333333333333	25	0.133333333333333	14	1	participant 13
+unqaqooda	13	14	Garawja	male	8	Malleyeck	pre-school	N	FALSE	production	0.2	12	0.133333333333333	14	-1	participant 5
+unqaqooda	26	26	Getanyamba	female	8	Duudiiyeeka	class 2	N	FALSE	production	0.1	3	0.133333333333333	14	-1	participant 15
+unqaqooda	6	6	Eshkesh	male	8	Hilbagarangay	pre-school	Y	TRUE	production	0.266666666666667	17	0.133333333333333	14	-1	participant 29
+unqaqooda	9	5	Getanyamba	female	10	Qawooga	none	N	FALSE	production	0.266666666666667	16	0.133333333333333	14	1	participant 24
+unqaqooda	22	22	Eshkesh	male	8	Hilbanyanqara	class 1	N	FALSE	production	0.2	13	0.133333333333333	14	-1	participant 1
+unqaqooda	30	30	Nyeamuusta	male	10	Dariidajeega	none	N	FALSE	production	0.166666666666667	9	0.133333333333333	14	1	participant 25
+unqaqooda	7	7	Eshkesh	male	8	Beaseeng'anyeeka	none	N	FALSE	production	0.266666666666667	18	0.133333333333333	14	-1	participant 22
+unqaqooda	2	1	Eshkesh	female	10	Bardeanajeega	none	N	FALSE	production	0.5	30	0.133333333333333	14	1	participant 23
+unqaqooda	17	17	Maguugu	female	8	Malleyeck	none	N	FALSE	production	0.266666666666667	19	0.133333333333333	14	-1	participant 19
+unqaqooda	28	28	Getanyamba	female	9	Duudiiyeeka	class 2	N	FALSE	production	0.2	14	0.133333333333333	14	0	participant 6
+unqaqooda	16	16	Getanyamba	female	10	Bareaboojiga	class 1	N	FALSE	production	0.3	23	0.133333333333333	14	1	participant 8
+unqaqooda	1	1	Eshkesh	female	9	Aseecheeka	none	N	FALSE	production	0.266666666666667	21	0.133333333333333	14	0	participant 27
+unqaqooda	15	15	Garawja	male	10	Hilbasaleab	none	N	FALSE	production	0.0666666666666667	1	0.133333333333333	14	1	participant 12
+unqaqooda	8	8	Getanyamba	female	8	Qawooga	pre-school	N	FALSE	production	0.1	2	0.133333333333333	14	-1	participant 20
+unqaqooda	12	12	Getanyamba	female	8	Haymahoo	class 1	N	FALSE	production	0.133333333333333	5	0.133333333333333	14	-1	participant 2
+unqaqooda	27	27	Getanyamba	female	7	Duudiiyeeka	class 1	N	FALSE	production	0.1	4	0.133333333333333	14	-2	participant 17
+unqaqooda	10	9	Getanyamba	female	10	Hilbagamas	class 2	N	FALSE	production	0.133333333333333	6	0.133333333333333	14	1	participant 7
+unqaqooda	5	4	Eshkesh	female	8	Hilbagarangay	pre-school	Y	TRUE	production	0.5	29	0.133333333333333	14	-1	participant 26
+unqaqooda	18	18	Getanyamba	female	9	Hilbagamas	class 1	N	FALSE	production	0.433333333333333	27	0.133333333333333	14	0	participant 10
+unqaqooda	20	20	Getanyamba	female	8	Hilbagamas	class 1	Y	TRUE	production	0.266666666666667	20	0.133333333333333	14	-1	participant 28
+unqaqooda	24	24	Getanyamba	female	10	Duudiiyeeka	class 2	N	FALSE	production	0.133333333333333	7	0.133333333333333	14	1	participant 9
+unqaqooda	14	13	Garawja	male	10	Malleyeck	class 2	N	FALSE	production	0.233333333333333	15	0.133333333333333	14	1	participant 18
+unqaqooda	11	11	Getanyamba	male	11	Haymahoo	class 5	N	FALSE	production	0.3	24	0.133333333333333	14	2	participant 3
+unqaqooda	3	2	Eshkesh	female	8	Aseecheeka	none	Y	TRUE	production	0.333333333333333	26	0.133333333333333	14	-1	participant 11
+unqaqooda	19	19	Getanyamba	male	10	Hilbagamas	class 2	N	FALSE	production	0.166666666666667	11	0.133333333333333	14	1	participant 14
+unqaqooda	23	23	Getanyamba	female	9	Qawooga (roopta)	class 2	N	FALSE	production	0.266666666666667	22	0.133333333333333	14	0	participant 21
+unqaqooda	25	25	Getanyamba	male	10	Duudiiyeeka	class 2	N	FALSE	production	0.166666666666667	10	0.133333333333333	14	1	participant 16
+unqaqooda	4	3	Eshkesh	male	8	Aseecheeka	none	N	FALSE	production	0.166666666666667	8	0.133333333333333	14	-1	participant 4
